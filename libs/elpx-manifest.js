@@ -11,6 +11,7 @@ window.__ELPX_MANIFEST__={
     "html/materiales-y-listas-de-cotejo.html",
     "html/juego.html",
     "html/publicacion-y-descarga-de-exe.html",
+    "html/diccionario-de-terminos.html",
     "content.xml",
     "content/css/base.css",
     "content/img/exe_powered_logo.png",
