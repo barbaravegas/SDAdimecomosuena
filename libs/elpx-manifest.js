@@ -180,5 +180,5 @@ window.__ELPX_MANIFEST__={
     "content/resources/ficha.pdf",
     "libs/elpx-manifest.js"
   ],
-  "projectTitle": "Situación de aprendizaje - Dime cómo suenas y te diré quién eres "
+  "projectTitle": "Situación de aprendizaje"
 };
