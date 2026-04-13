@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260413185107GO6RYG</value>
+    <value>20260413192026TQT4SP</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>2026041318510749JAG5</value>
+    <value>20260413192026ZO2WWT</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -24,7 +24,7 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>Situación de aprendizaje - Dime cómo suenas y te diré quién eres </value>
+    <value>Situación de aprendizaje</value>
   </odeProperty>
   <odeProperty>
     <key>pp_author</key>
@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776095199448</value>
+    <value>1776100006219</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -85,14 +85,14 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mnxd82pw-02k1mkr83</odePageId>
+  <odePageId>page-mnxg1era-3n65htyc1</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Situación de aprendizaje</pageName>
+  <pageName>Dime como suenas y te diré quien eres</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Situación de aprendizaje</value>
+      <value>Dime como suenas y te diré quien eres</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -116,14 +116,14 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Situación de aprendizaje</value>
+      <value>Dime como suenas y te diré quien eres</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxd82pw-02k1mkr83</odePageId>
+      <odePageId>page-mnxg1era-3n65htyc1</odePageId>
       <odeBlockId>block-1776097059209-5qtsmmsii</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName></blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -150,7 +150,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82pw-02k1mkr83</odePageId>
+          <odePageId>page-mnxg1era-3n65htyc1</odePageId>
           <odeBlockId>block-1776097059209-5qtsmmsii</odeBlockId>
           <odeIdeviceId>idevice-1776097059208-971na4gqz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -172,6 +172,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776097059208-971na4gqz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-weight: 400;\">En esta Situación de Aprendizaje, vamos a adentrarnos en la orquesta sinfónica a través de una obra musical que fue un símbolo de protesta no violenta. </span></p>\n<p><span style=\"font-weight: 400;\">Conoceremos los instrumentos, quién es quién y cuál es su colocación en la orquesta y porqué; esto os permitirá poder disfrutar mejor de cualquier obra musical cuando vayáis a escuchar un concierto.</span></p>\n<p><br /></p>\n<p><span style=\"font-weight: 400;\">Para lograr esto, prepararemos dos productos: </span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">una infografía, usando Canva, con elemento interactivo sobre la historia de la Sinfonía de los Adioses de Haydn y </span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">un vídeo, usando el mini croma para explicar las secciones de instrumentos de la orquesta.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Nos dividiremos en dos grupos:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">para la infografía, cada grupo hará la suya, usando los materiales proporcionados.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">para el vídeo, cada grupo se ocupará de un aspecto: el grupo audio, montará el sonido y el grupo vídeo, hará la grabación de imagen en el mini croma.</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -179,10 +191,10 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
-  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <odePageId>page-mnxg1erc-7ix1023v6</odePageId>
+  <odeParentPageId>page-mnxg1era-3n65htyc1</odeParentPageId>
   <pageName>Tareas</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -215,7 +227,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+      <odePageId>page-mnxg1erc-7ix1023v6</odePageId>
       <odeBlockId>block-1776017181563-9bd1nijft</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -244,7 +256,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+          <odePageId>page-mnxg1erc-7ix1023v6</odePageId>
           <odeBlockId>block-1776017181563-9bd1nijft</odeBlockId>
           <odeIdeviceId>idevice-1776017181561-vglhv1o3r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -285,7 +297,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+      <odePageId>page-mnxg1erc-7ix1023v6</odePageId>
       <odeBlockId>block-1776017697362-n7bpn4olb</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -314,21 +326,22 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+          <odePageId>page-mnxg1erc-7ix1023v6</odePageId>
           <odeBlockId>block-1776017697362-n7bpn4olb</odeBlockId>
           <odeIdeviceId>idevice-1776017697358-s6tgkal0r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><b>Actividad 1: PREPARANDO LA INFOGRAFÍA DE LA SINFONÍA DE LOS ADIOSES.</b></p>
+<p><b>En los materiales encontraréis la ficha imprimible : Sinfonía de los Adioses. Respondiendo a esas preguntas tendreís el texto para la infografía (todas las respuestas estan en el texto que hemos leído).</b></p>
 <p><b>INSTRUCCIONES PARA LA REALIZACIÓN DE LA INFOGRAFÍA</b></p>
 <p><span style="font-weight: 400;">A través de la lista de cotejo, que tenéis en los materiales, comprenderéis todo lo que debe incluir este trabajo.</span></p>
 <p><span style="font-weight: 400;">No os olvidéis de leer con atención las instrucciones para que todo os resulte más fácil.</span></p>
 <p><img src="{{context_path}}/content/resources/INDICACIONES PARA REALIZAR LA INFOGRAFÍA.png" title="infografia" width="1920" height="1080" alt="infografia" /><br /><br /></p>
 <p><b>Actividad 2: DAMOS FORMA A LA HISTORIA</b></p>
-<p><span style="font-weight: 400;">En grupo, poned en común vuestras respuestas y escribid entre todos la historia de la Sinfonía de los Adioses. Cuando terminéis, tendréis el texto que acompañará la infografía.</span></p>
+<p><span style="font-weight: 400;">En grupo, poned en común vuestras respuestas de la ficha imprimible y escribid entre todos la historia de la Sinfonía de los Adioses. Cuando terminéis, tendréis el texto que acompañará la infografía.</span></p>
 <p><br /></p>
 <p><b>Actividad 3: CREAMOS LA INFOGRAFÍA</b></p>
-<p><span style="font-weight: 400;">Cada grupo, con su cuenta de CANVA, crearán las imágenes de la infografía. Veréis que en los materiales tenéis varias fotografías de cada tema, para que elijáis las que más os gusten y así, cada infografía pueda ser diferente.</span></p>
+<p><span style="font-weight: 400;">Cada grupo, con su cuenta de CANVA, creará las imágenes de la infografía. Veréis que en los materiales tenéis varias fotografías de cada tema, para que elijáis las que más os gusten y así, cada infografía pueda ser diferente.</span></p>
 <p><span style="font-weight: 400;">Este es el enlace al vídeo que debéis insertar: </span></p>
 <p><b>Daniel Barenboim Joseph Haydn Symphony No. 45 </b></p>
 <p><a href="https://www.youtube.com/watch?v=sOF5K6zOaLc"><span style="font-weight: 400;">https://www.youtube.com/watch?v=sOF5K6zOaLc</span></a></p>
@@ -341,29 +354,8 @@
 <p><b>La orquesta sinfónica se compone de diferentes instrumentos que dividimos en secciones o familias. En los siguientes vídeos descubriremos qué instrumentos pertenecen a cada familia, cómo suenan y dónde se colocan en el escenario y por qué. </b></p>
 <p><b>Veamos los siguientes vídeos para luego poder contestar la ficha, rellenando los huecos que faltan.</b></p>
 <p><b><img src="{{context_path}}/content/resources/instrumentos orquesta.jpg" title="instrumentos" width="1089" height="980" alt="instrumentos" /></b></p>
-<p><br /><br /><br /><br /><b></b></p>
-<ul>
-<li aria-level="1">
-<h5><b>Jaime Altozano y la orquesta </b></h5>
-</li>
-</ul>
-<p><a href="https://www.youtube.com/watch?v=RHAklmqlvRI&t=376s"><span style="font-weight: 400;">https://www.youtube.com/watch?v=RHAklmqlvRI&t=376s</span></a></p>
-<p><br /><b></b></p>
-<ul>
-<li aria-level="1">
-<h5><b>Los Instrumentos de la orquesta sinfonica - Parte uno</b></h5>
-</li>
-</ul>
-<p><a href="https://www.youtube.com/watch?v=wll6hBYzOKU"><span style="font-weight: 400;">https://www.youtube.com/watch?v=wll6hBYzOKU</span></a></p>
-<p><br /><b></b></p>
-<ul>
-<li aria-level="1">
-<h5><b>Los Instrumentos de la orquesta sinfonica - Parte dos</b></h5>
-</li>
-</ul>
-<p><a href="https://www.youtube.com/watch?v=KmTqbL07i_g&list=RDKmTqbL07i_g&start_radio=1"><span style="font-weight: 400;">https:/www.youtube.com/watch?v=KmTqbL07i_g&list=RDKmTqbL07i_g&start_radio=1</span></a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776017697358-s6tgkal0r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><b>Actividad 1: PREPARANDO LA INFOGRAFÍA DE LA SINFONÍA DE LOS ADIOSES.</b></p>\n<p><b>INSTRUCCIONES PARA LA REALIZACIÓN DE LA INFOGRAFÍA</b></p>\n<p><span style=\"font-weight: 400;\">A través de la lista de cotejo, que tenéis en los materiales, comprenderéis todo lo que debe incluir este trabajo.</span></p>\n<p><span style=\"font-weight: 400;\">No os olvidéis de leer con atención las instrucciones para que todo os resulte más fácil.</span></p>\n<p><img src=\"{{context_path}}/content/resources/INDICACIONES PARA REALIZAR LA INFOGRAFÍA.png\" title=\"infografia\" width=\"1920\" height=\"1080\" alt=\"infografia\" /><br /><br /></p>\n<p><b>Actividad 2: DAMOS FORMA A LA HISTORIA</b></p>\n<p><span style=\"font-weight: 400;\">En grupo, poned en común vuestras respuestas y escribid entre todos la historia de la Sinfonía de los Adioses. Cuando terminéis, tendréis el texto que acompañará la infografía.</span></p>\n<p><br /></p>\n<p><b>Actividad 3: CREAMOS LA INFOGRAFÍA</b></p>\n<p><span style=\"font-weight: 400;\">Cada grupo, con su cuenta de CANVA, crearán las imágenes de la infografía. Veréis que en los materiales tenéis varias fotografías de cada tema, para que elijáis las que más os gusten y así, cada infografía pueda ser diferente.</span></p>\n<p><span style=\"font-weight: 400;\">Este es el enlace al vídeo que debéis insertar: </span></p>\n<p><b>Daniel Barenboim Joseph Haydn Symphony No. 45 </b></p>\n<p><a href=\"https://www.youtube.com/watch?v=sOF5K6zOaLc\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=sOF5K6zOaLc</span></a></p>\n<p><br /><br /><br /></p>\n<p><b>Actividad 4: Evaluamos nuestro trabajo</b></p>\n<p><b>A través de la lista de cotejo podremos saber si nuestro trabajo está acabado con todos los elementos que se piden.</b></p>\n<p><br /><br /><br /></p>\n<p><b>TAREA 2: Vídeo de los instrumentos de la orquesta sinfónica.</b></p>\n<p><br /></p>\n<p><b>La orquesta sinfónica se compone de diferentes instrumentos que dividimos en secciones o familias. En los siguientes vídeos descubriremos qué instrumentos pertenecen a cada familia, cómo suenan y dónde se colocan en el escenario y por qué. </b></p>\n<p><b>Veamos los siguientes vídeos para luego poder contestar la ficha, rellenando los huecos que faltan.</b></p>\n<p><b><img src=\"{{context_path}}/content/resources/instrumentos orquesta.jpg\" title=\"instrumentos\" width=\"1089\" height=\"980\" alt=\"instrumentos\" /></b></p>\n<p><br /><br /><br /><br /><b></b></p>\n<ul>\n<li aria-level=\"1\">\n<h5><b>Jaime Altozano y la orquesta </b></h5>\n</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=RHAklmqlvRI&t=376s\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=RHAklmqlvRI&t=376s</span></a></p>\n<p><br /><b></b></p>\n<ul>\n<li aria-level=\"1\">\n<h5><b>Los Instrumentos de la orquesta sinfonica - Parte uno</b></h5>\n</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=wll6hBYzOKU\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=wll6hBYzOKU</span></a></p>\n<p><br /><b></b></p>\n<ul>\n<li aria-level=\"1\">\n<h5><b>Los Instrumentos de la orquesta sinfonica - Parte dos</b></h5>\n</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=KmTqbL07i_g&list=RDKmTqbL07i_g&start_radio=1\"><span style=\"font-weight: 400;\">https:/www.youtube.com/watch?v=KmTqbL07i_g&list=RDKmTqbL07i_g&start_radio=1</span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776017697358-s6tgkal0r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><b>Actividad 1: PREPARANDO LA INFOGRAFÍA DE LA SINFONÍA DE LOS ADIOSES.</b></p>\n<p><b>En los materiales encontraréis la ficha imprimible : Sinfonía de los Adioses. Respondiendo a esas preguntas tendreís el texto para la infografía (todas las respuestas estan en el texto que hemos leído).</b></p>\n<p><b>INSTRUCCIONES PARA LA REALIZACIÓN DE LA INFOGRAFÍA</b></p>\n<p><span style=\"font-weight: 400;\">A través de la lista de cotejo, que tenéis en los materiales, comprenderéis todo lo que debe incluir este trabajo.</span></p>\n<p><span style=\"font-weight: 400;\">No os olvidéis de leer con atención las instrucciones para que todo os resulte más fácil.</span></p>\n<p><img src=\"{{context_path}}/content/resources/INDICACIONES PARA REALIZAR LA INFOGRAFÍA.png\" title=\"infografia\" width=\"1920\" height=\"1080\" alt=\"infografia\" /><br /><br /></p>\n<p><b>Actividad 2: DAMOS FORMA A LA HISTORIA</b></p>\n<p><span style=\"font-weight: 400;\">En grupo, poned en común vuestras respuestas de la ficha imprimible y escribid entre todos la historia de la Sinfonía de los Adioses. Cuando terminéis, tendréis el texto que acompañará la infografía.</span></p>\n<p><br /></p>\n<p><b>Actividad 3: CREAMOS LA INFOGRAFÍA</b></p>\n<p><span style=\"font-weight: 400;\">Cada grupo, con su cuenta de CANVA, creará las imágenes de la infografía. Veréis que en los materiales tenéis varias fotografías de cada tema, para que elijáis las que más os gusten y así, cada infografía pueda ser diferente.</span></p>\n<p><span style=\"font-weight: 400;\">Este es el enlace al vídeo que debéis insertar: </span></p>\n<p><b>Daniel Barenboim Joseph Haydn Symphony No. 45 </b></p>\n<p><a href=\"https://www.youtube.com/watch?v=sOF5K6zOaLc\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=sOF5K6zOaLc</span></a></p>\n<p><br /><br /><br /></p>\n<p><b>Actividad 4: Evaluamos nuestro trabajo</b></p>\n<p><b>A través de la lista de cotejo podremos saber si nuestro trabajo está acabado con todos los elementos que se piden.</b></p>\n<p><br /><br /><br /></p>\n<p><b>TAREA 2: Vídeo de los instrumentos de la orquesta sinfónica.</b></p>\n<p><br /></p>\n<p><b>La orquesta sinfónica se compone de diferentes instrumentos que dividimos en secciones o familias. En los siguientes vídeos descubriremos qué instrumentos pertenecen a cada familia, cómo suenan y dónde se colocan en el escenario y por qué. </b></p>\n<p><b>Veamos los siguientes vídeos para luego poder contestar la ficha, rellenando los huecos que faltan.</b></p>\n<p><b><img src=\"{{context_path}}/content/resources/instrumentos orquesta.jpg\" title=\"instrumentos\" width=\"1089\" height=\"980\" alt=\"instrumentos\" /></b></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -383,7 +375,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+      <odePageId>page-mnxg1erc-7ix1023v6</odePageId>
       <odeBlockId>block-1776017810583-5xud8hn0q</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -412,12 +404,32 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+          <odePageId>page-mnxg1erc-7ix1023v6</odePageId>
           <odeBlockId>block-1776017810583-5xud8hn0q</odeBlockId>
           <odeIdeviceId>idevice-1776017810582-jiwb29xlg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><b>Actividad 1: PREPARANDO EL VÍDEO DE LOS INSTRUMENTOS DE LA ORQUESTA.</b></p>
+<ul>
+<li aria-level="1">
+<h5><b>Jaime Altozano y la orquesta </b></h5>
+</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=RHAklmqlvRI&amp;t=376s"><span style="font-weight: 400;">https://www.youtube.com/watch?v=RHAklmqlvRI&amp;t=376s</span></a><b></b></p>
+<ul>
+<li aria-level="1">
+<h5><b>Los Instrumentos de la orquesta sinfonica - Parte uno</b></h5>
+</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=wll6hBYzOKU"><span style="font-weight: 400;">https://www.youtube.com/watch?v=wll6hBYzOKU</span></a><b></b></p>
+<ul>
+<li aria-level="1">
+<h5><b>Los Instrumentos de la orquesta sinfonica - Parte dos</b></h5>
+</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=KmTqbL07i_g&amp;list=RDKmTqbL07i_g&amp;start_radio=1"><span style="font-weight: 400;">https:/www.youtube.com/watch?v=KmTqbL07i_g&amp;list=RDKmTqbL07i_g&amp;start_radio=1</span></a></p>
+<p>Ahora que ya hemos visto los videos, acceder a FICHAS y completad los campos de la segunda ficha.</p>
+<p><br /></p>
 <p><b>INSTRUCCIONES PARA LA REALIZACIÓN DEL VÍDEO</b></p>
 <p><span style="font-weight: 400;">A través de la lista de cotejo, que tenéis en los materiales, comprenderéis todo lo que debe incluir este trabajo.</span></p>
 <p><span style="font-weight: 400;">No os olvidéis de leer con atención las instrucciones para que todo os resulte más fácil.</span></p>
@@ -439,7 +451,7 @@
 <p><b>Actividad 4: Evaluamos nuestro trabajo</b></p>
 <p><b>A través de la lista de cotejo podremos saber si nuestro trabajo está acabado con todos los elementos que se piden.</b></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776017810582-jiwb29xlg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><b>Actividad 1: PREPARANDO EL VÍDEO DE LOS INSTRUMENTOS DE LA ORQUESTA.</b></p>\n<p><b>INSTRUCCIONES PARA LA REALIZACIÓN DEL VÍDEO</b></p>\n<p><span style=\"font-weight: 400;\">A través de la lista de cotejo, que tenéis en los materiales, comprenderéis todo lo que debe incluir este trabajo.</span></p>\n<p><span style=\"font-weight: 400;\">No os olvidéis de leer con atención las instrucciones para que todo os resulte más fácil.</span></p>\n<p><img src=\"{{context_path}}/content/resources/Indicaciones vídeo.png\" title=\"video\" width=\"1920\" height=\"1080\" alt=\"video\" /><br /></p>\n<p><b>Actividad 2: DAMOS FORMA AL VÍDEO</b></p>\n<p><span style=\"font-weight: 400;\">Nos dividiremos en dos grupos para este trabajo: el equipo VÍDEO y el equipo AUDIO. </span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">equipo VÍDEO: preparará las imágenes para el minicroma y será el responsable de la grabación de las imágenes del vídeo.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">equipo AUDIO: preparará el texto de nuestro vídeo, utilizando la ficha de la actividad 1 y será el responsable de la grabación del audio del vídeo.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Cada equipo preparará su lista de tareas usando la metodología EduScrum.</span></p>\n<p><span style=\"font-weight: 400;\">En el siguiente vídeo aprenderemos cómo hacerlo:</span></p>\n<h5><b>Metodología Eduscrum</b></h5>\n<p><a href=\"https://www.youtube.com/watch?v=NrVcuv0ZXeQ\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=NrVcuv0ZXeQ</span></a></p>\n<p><br /><br /></p>\n<p><b>Actividad 3: CREAMOS EL VÍDEO</b></p>\n<p><span style=\"font-weight: 400;\">Cada grupo, llevará a cabo las tareas de su tablero.</span></p>\n<p><br /><br /><br /></p>\n<p><b>Actividad 4: Evaluamos nuestro trabajo</b></p>\n<p><b>A través de la lista de cotejo podremos saber si nuestro trabajo está acabado con todos los elementos que se piden.</b></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776017810582-jiwb29xlg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><b>Actividad 1: PREPARANDO EL VÍDEO DE LOS INSTRUMENTOS DE LA ORQUESTA.</b></p>\n<ul>\n<li aria-level=\"1\">\n<h5><b>Jaime Altozano y la orquesta </b></h5>\n</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=RHAklmqlvRI&amp;t=376s\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=RHAklmqlvRI&amp;t=376s</span></a><b></b></p>\n<ul>\n<li aria-level=\"1\">\n<h5><b>Los Instrumentos de la orquesta sinfonica - Parte uno</b></h5>\n</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=wll6hBYzOKU\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=wll6hBYzOKU</span></a><b></b></p>\n<ul>\n<li aria-level=\"1\">\n<h5><b>Los Instrumentos de la orquesta sinfonica - Parte dos</b></h5>\n</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=KmTqbL07i_g&amp;list=RDKmTqbL07i_g&amp;start_radio=1\"><span style=\"font-weight: 400;\">https:/www.youtube.com/watch?v=KmTqbL07i_g&amp;list=RDKmTqbL07i_g&amp;start_radio=1</span></a></p>\n<p>Ahora que ya hemos visto los videos, acceder a FICHAS y completad los campos de la segunda ficha.</p>\n<p><br /></p>\n<p><b>INSTRUCCIONES PARA LA REALIZACIÓN DEL VÍDEO</b></p>\n<p><span style=\"font-weight: 400;\">A través de la lista de cotejo, que tenéis en los materiales, comprenderéis todo lo que debe incluir este trabajo.</span></p>\n<p><span style=\"font-weight: 400;\">No os olvidéis de leer con atención las instrucciones para que todo os resulte más fácil.</span></p>\n<p><img src=\"{{context_path}}/content/resources/Indicaciones vídeo.png\" title=\"video\" width=\"1920\" height=\"1080\" alt=\"video\" /><br /></p>\n<p><b>Actividad 2: DAMOS FORMA AL VÍDEO</b></p>\n<p><span style=\"font-weight: 400;\">Nos dividiremos en dos grupos para este trabajo: el equipo VÍDEO y el equipo AUDIO. </span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">equipo VÍDEO: preparará las imágenes para el minicroma y será el responsable de la grabación de las imágenes del vídeo.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">equipo AUDIO: preparará el texto de nuestro vídeo, utilizando la ficha de la actividad 1 y será el responsable de la grabación del audio del vídeo.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Cada equipo preparará su lista de tareas usando la metodología EduScrum.</span></p>\n<p><span style=\"font-weight: 400;\">En el siguiente vídeo aprenderemos cómo hacerlo:</span></p>\n<h5><b>Metodología Eduscrum</b></h5>\n<p><a href=\"https://www.youtube.com/watch?v=NrVcuv0ZXeQ\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=NrVcuv0ZXeQ</span></a></p>\n<p><br /><br /></p>\n<p><b>Actividad 3: CREAMOS EL VÍDEO</b></p>\n<p><span style=\"font-weight: 400;\">Cada grupo, llevará a cabo las tareas de su tablero.</span></p>\n<p><br /><br /><br /></p>\n<p><b>Actividad 4: Evaluamos nuestro trabajo</b></p>\n<p><b>A través de la lista de cotejo podremos saber si nuestro trabajo está acabado con todos los elementos que se piden.</b></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -461,10 +473,10 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
-  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <odePageId>page-mnxg1erd-fi0lphxup</odePageId>
+  <odeParentPageId>page-mnxg1era-3n65htyc1</odeParentPageId>
   <pageName>Fichas</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -497,7 +509,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+      <odePageId>page-mnxg1erd-fi0lphxup</odePageId>
       <odeBlockId>block-1776097490691-ma0yjjc39</odeBlockId>
       <blockName>Ficha</blockName>
       <iconName></iconName>
@@ -526,25 +538,37 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+          <odePageId>page-mnxg1erd-fi0lphxup</odePageId>
           <odeBlockId>block-1776097490691-ma0yjjc39</odeBlockId>
           <odeIdeviceId>idevice-1776097490690-y1b9zjcod</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Ficha imprimible </p>
-<p><a href="{{context_path}}/content/resources/ficha.pdf" title="ficha.pdf">{{context_path}}/content/resources/ficha.pdf</a></p>
+<p><a href="{{context_path}}/content/resources/ficha.pdf" title="ficha.pdf">La sinfonia de los adioses</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776097490690-y1b9zjcod","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ficha imprimible </p>\n<p><a href=\"{{context_path}}/content/resources/ficha.pdf\" title=\"ficha.pdf\">{{context_path}}/content/resources/ficha.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776097490690-y1b9zjcod","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ficha imprimible </p>\n<p><a href=\"{{context_path}}/content/resources/ficha.pdf\" title=\"ficha.pdf\">La sinfonia de los adioses</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+      <odePageId>page-mnxg1erd-fi0lphxup</odePageId>
       <odeBlockId>block-1776096042996-n8xzn4vpo</odeBlockId>
-      <blockName>Rellena los campo</blockName>
+      <blockName>Rellena los campos</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -571,7 +595,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+          <odePageId>page-mnxg1erd-fi0lphxup</odePageId>
           <odeBlockId>block-1776096042996-n8xzn4vpo</odeBlockId>
           <odeIdeviceId>idevice-1776096760503-n90732lhm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -583,10 +607,22 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776096760503-n90732lhm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><b>Actividad 1: PREPARANDO EL VÍDEO DE LOS INSTRUMENTOS DE LA ORQUESTA.</b></p>\n<p>Contesta a estas preguntas, son la base para componer la historia que explicará la infografía. </p>\n<p>LA ORQUESTA SINFÓNICA. Encontrarás las respuestas en el vídeo 1.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
         <odeComponent>
-          <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+          <odePageId>page-mnxg1erd-fi0lphxup</odePageId>
           <odeBlockId>block-1776096042996-n8xzn4vpo</odeBlockId>
           <odeIdeviceId>idevice-1776096042995-8woodizse</odeIdeviceId>
           <odeIdeviceTypeName>complete</odeIdeviceTypeName>
@@ -605,10 +641,22 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
         <odeComponent>
-          <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+          <odePageId>page-mnxg1erd-fi0lphxup</odePageId>
           <odeBlockId>block-1776096042996-n8xzn4vpo</odeBlockId>
           <odeIdeviceId>idevice-1776096834514-33zmifo8g</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -618,10 +666,22 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776096834514-33zmifo8g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>LOS INSTRUMENTOS POR FAMILIAS. Encontrarás las respuestas en los vídeos 2 y 3.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
         <odeComponent>
-          <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+          <odePageId>page-mnxg1erd-fi0lphxup</odePageId>
           <odeBlockId>block-1776096042996-n8xzn4vpo</odeBlockId>
           <odeIdeviceId>idevice-1776096862404-5px9hzx69</odeIdeviceId>
           <odeIdeviceTypeName>complete</odeIdeviceTypeName>
@@ -637,6 +697,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -644,10 +716,10 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
-  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <odePageId>page-mnxg1ere-u82vstthq</odePageId>
+  <odeParentPageId>page-mnxg1era-3n65htyc1</odeParentPageId>
   <pageName>Materiales y listas de cotejo</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -680,7 +752,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+      <odePageId>page-mnxg1ere-u82vstthq</odePageId>
       <odeBlockId>block-1776019665478-xyfi7wrx4</odeBlockId>
       <blockName>Imágenes</blockName>
       <iconName></iconName>
@@ -709,7 +781,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+          <odePageId>page-mnxg1ere-u82vstthq</odePageId>
           <odeBlockId>block-1776019665478-xyfi7wrx4</odeBlockId>
           <odeIdeviceId>idevice-1776019665475-z7df5ss2s</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -744,7 +816,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+      <odePageId>page-mnxg1ere-u82vstthq</odePageId>
       <odeBlockId>block-1776099016030-0j6iw82xl</odeBlockId>
       <blockName>Videos</blockName>
       <iconName></iconName>
@@ -773,36 +845,48 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+          <odePageId>page-mnxg1ere-u82vstthq</odePageId>
           <odeBlockId>block-1776099016030-0j6iw82xl</odeBlockId>
           <odeIdeviceId>idevice-1776098739985-0hxi99n9s</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <h3><strong>Enlaces a los videos</strong></h3>
 <h5 dir="ltr"><span>La orquesta sinfónica' - Secciones e instrumentos.</span></h5>
-<p dir="ltr"><a href="https://www.youtube.com/watch?v=v-qNppthH-8" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dv-qNppthH-8&amp;source=gmail&amp;ust=1776185237882000&amp;usg=AOvVaw3M3Y1G-i603moBkWU43TQF" rel="noopener"><span>https://www.youtube.com/watch?<wbr />v=v-qNppthH-8</span></a></p>
+<p dir="ltr"><a href="https://www.youtube.com/watch?v=v-qNppthH-8" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dv-qNppthH-8&source=gmail&ust=1776185237882000&usg=AOvVaw3M3Y1G-i603moBkWU43TQF" rel="noopener"><span>https://www.youtube.com/watch?<wbr />v=v-qNppthH-8</span></a></p>
 <p><strong><span><br /></span></strong></p>
 <h5 dir="ltr"><span>¿CÓMO SE COLOCAN LOS INSTRUMENTOS EN UNA ORQUESTA SINFÓNICA?</span></h5>
-<p dir="ltr"><a href="https://www.youtube.com/watch?v=a6HORtAAJEE" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3Da6HORtAAJEE&amp;source=gmail&amp;ust=1776185237882000&amp;usg=AOvVaw2uks9C3EwXv6G30ux08-Pa" rel="noopener"><span>https://www.youtube.com/watch?<wbr />v=a6HORtAAJEE</span></a></p>
+<p dir="ltr"><a href="https://www.youtube.com/watch?v=a6HORtAAJEE" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3Da6HORtAAJEE&source=gmail&ust=1776185237882000&usg=AOvVaw2uks9C3EwXv6G30ux08-Pa" rel="noopener"><span>https://www.youtube.com/watch?<wbr />v=a6HORtAAJEE</span></a></p>
 <p><strong><span><br /></span></strong></p>
 <h5 dir="ltr"><span>LA ORQUESTA Y SUS INSTRUMENTOS Escucha estos ejemplos</span></h5>
-<p dir="ltr"><a href="https://www.youtube.com/watch?v=dSrCzrZ-MTM" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdSrCzrZ-MTM&amp;source=gmail&amp;ust=1776185237882000&amp;usg=AOvVaw0dkJiWNJt1-cG3B88_VWHe" rel="noopener"><span>https://www.youtube.com/watch?<wbr />v=dSrCzrZ-MTM</span></a></p>
+<p dir="ltr"><a href="https://www.youtube.com/watch?v=dSrCzrZ-MTM" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdSrCzrZ-MTM&source=gmail&ust=1776185237882000&usg=AOvVaw0dkJiWNJt1-cG3B88_VWHe" rel="noopener"><span>https://www.youtube.com/watch?<wbr />v=dSrCzrZ-MTM</span></a></p>
 <p><strong><span><br /></span></strong></p>
 <h5 dir="ltr"><span>¿Cuántos "INSTRUMENTOS MUSICALES" Reconoces? Test/Trivial/Quiz</span></h5>
-<p dir="ltr"><a href="https://www.youtube.com/watch?v=hXt04QfCdIg" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhXt04QfCdIg&amp;source=gmail&amp;ust=1776185237882000&amp;usg=AOvVaw3bMZKHkRdPkvr13iJLWxZ0" rel="noopener"><span>https://www.youtube.com/watch?<wbr />v=hXt04QfCdIg</span></a></p>
+<p dir="ltr"><a href="https://www.youtube.com/watch?v=hXt04QfCdIg" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhXt04QfCdIg&source=gmail&ust=1776185237882000&usg=AOvVaw3bMZKHkRdPkvr13iJLWxZ0" rel="noopener"><span>https://www.youtube.com/watch?<wbr />v=hXt04QfCdIg</span></a></p>
 <div class="yj6qo"><br /></div>
 <div class="adL"><br /></div>
 <p></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776098739985-0hxi99n9s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><strong>Enlaces a los videos</strong></h3>\n<h5 dir=\"ltr\"><span>La orquesta sinfónica' - Secciones e instrumentos.</span></h5>\n<p dir=\"ltr\"><a href=\"https://www.youtube.com/watch?v=v-qNppthH-8\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dv-qNppthH-8&amp;source=gmail&amp;ust=1776185237882000&amp;usg=AOvVaw3M3Y1G-i603moBkWU43TQF\" rel=\"noopener\"><span>https://www.youtube.com/watch?<wbr />v=v-qNppthH-8</span></a></p>\n<p><strong><span><br /></span></strong></p>\n<h5 dir=\"ltr\"><span>¿CÓMO SE COLOCAN LOS INSTRUMENTOS EN UNA ORQUESTA SINFÓNICA?</span></h5>\n<p dir=\"ltr\"><a href=\"https://www.youtube.com/watch?v=a6HORtAAJEE\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3Da6HORtAAJEE&amp;source=gmail&amp;ust=1776185237882000&amp;usg=AOvVaw2uks9C3EwXv6G30ux08-Pa\" rel=\"noopener\"><span>https://www.youtube.com/watch?<wbr />v=a6HORtAAJEE</span></a></p>\n<p><strong><span><br /></span></strong></p>\n<h5 dir=\"ltr\"><span>LA ORQUESTA Y SUS INSTRUMENTOS Escucha estos ejemplos</span></h5>\n<p dir=\"ltr\"><a href=\"https://www.youtube.com/watch?v=dSrCzrZ-MTM\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdSrCzrZ-MTM&amp;source=gmail&amp;ust=1776185237882000&amp;usg=AOvVaw0dkJiWNJt1-cG3B88_VWHe\" rel=\"noopener\"><span>https://www.youtube.com/watch?<wbr />v=dSrCzrZ-MTM</span></a></p>\n<p><strong><span><br /></span></strong></p>\n<h5 dir=\"ltr\"><span>¿Cuántos \"INSTRUMENTOS MUSICALES\" Reconoces? Test/Trivial/Quiz</span></h5>\n<p dir=\"ltr\"><a href=\"https://www.youtube.com/watch?v=hXt04QfCdIg\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhXt04QfCdIg&amp;source=gmail&amp;ust=1776185237882000&amp;usg=AOvVaw3bMZKHkRdPkvr13iJLWxZ0\" rel=\"noopener\"><span>https://www.youtube.com/watch?<wbr />v=hXt04QfCdIg</span></a></p>\n<div class=\"yj6qo\"><br /></div>\n<div class=\"adL\"><br /></div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776098739985-0hxi99n9s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><strong>Enlaces a los videos</strong></h3>\n<h5 dir=\"ltr\"><span>La orquesta sinfónica' - Secciones e instrumentos.</span></h5>\n<p dir=\"ltr\"><a href=\"https://www.youtube.com/watch?v=v-qNppthH-8\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dv-qNppthH-8&source=gmail&ust=1776185237882000&usg=AOvVaw3M3Y1G-i603moBkWU43TQF\" rel=\"noopener\"><span>https://www.youtube.com/watch?<wbr />v=v-qNppthH-8</span></a></p>\n<p><strong><span><br /></span></strong></p>\n<h5 dir=\"ltr\"><span>¿CÓMO SE COLOCAN LOS INSTRUMENTOS EN UNA ORQUESTA SINFÓNICA?</span></h5>\n<p dir=\"ltr\"><a href=\"https://www.youtube.com/watch?v=a6HORtAAJEE\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3Da6HORtAAJEE&source=gmail&ust=1776185237882000&usg=AOvVaw2uks9C3EwXv6G30ux08-Pa\" rel=\"noopener\"><span>https://www.youtube.com/watch?<wbr />v=a6HORtAAJEE</span></a></p>\n<p><strong><span><br /></span></strong></p>\n<h5 dir=\"ltr\"><span>LA ORQUESTA Y SUS INSTRUMENTOS Escucha estos ejemplos</span></h5>\n<p dir=\"ltr\"><a href=\"https://www.youtube.com/watch?v=dSrCzrZ-MTM\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdSrCzrZ-MTM&source=gmail&ust=1776185237882000&usg=AOvVaw0dkJiWNJt1-cG3B88_VWHe\" rel=\"noopener\"><span>https://www.youtube.com/watch?<wbr />v=dSrCzrZ-MTM</span></a></p>\n<p><strong><span><br /></span></strong></p>\n<h5 dir=\"ltr\"><span>¿Cuántos \"INSTRUMENTOS MUSICALES\" Reconoces? Test/Trivial/Quiz</span></h5>\n<p dir=\"ltr\"><a href=\"https://www.youtube.com/watch?v=hXt04QfCdIg\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhXt04QfCdIg&source=gmail&ust=1776185237882000&usg=AOvVaw3bMZKHkRdPkvr13iJLWxZ0\" rel=\"noopener\"><span>https://www.youtube.com/watch?<wbr />v=hXt04QfCdIg</span></a></p>\n<div class=\"yj6qo\"><br /></div>\n<div class=\"adL\"><br /></div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+      <odePageId>page-mnxg1ere-u82vstthq</odePageId>
       <odeBlockId>block-1776098554909-pnvyc4dgr</odeBlockId>
       <blockName>Lista de cotejo</blockName>
       <iconName></iconName>
@@ -831,7 +915,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+          <odePageId>page-mnxg1ere-u82vstthq</odePageId>
           <odeBlockId>block-1776098554909-pnvyc4dgr</odeBlockId>
           <odeIdeviceId>idevice-1776098554908-8j4w2r5u1</odeIdeviceId>
           <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
@@ -839,12 +923,24 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+      <odePageId>page-mnxg1ere-u82vstthq</odePageId>
       <odeBlockId>block-1776020320031-zlxm83xla</odeBlockId>
       <blockName>Lista de cotejo</blockName>
       <iconName></iconName>
@@ -873,7 +969,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+          <odePageId>page-mnxg1ere-u82vstthq</odePageId>
           <odeBlockId>block-1776020320031-zlxm83xla</odeBlockId>
           <odeIdeviceId>idevice-1776020320030-rursfgzuj</odeIdeviceId>
           <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
@@ -941,10 +1037,10 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnxd82pz-ax0wzdkqg</odePageId>
-  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <odePageId>page-mnxg1erf-cttywtcbo</odePageId>
+  <odeParentPageId>page-mnxg1era-3n65htyc1</odeParentPageId>
   <pageName>Juego</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -977,7 +1073,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnxd82pz-ax0wzdkqg</odePageId>
+      <odePageId>page-mnxg1erf-cttywtcbo</odePageId>
       <odeBlockId>block-1776016857640-aghl37fj7</odeBlockId>
       <blockName>Puzle</blockName>
       <iconName></iconName>
@@ -1006,7 +1102,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnxd82pz-ax0wzdkqg</odePageId>
+          <odePageId>page-mnxg1erf-cttywtcbo</odePageId>
           <odeBlockId>block-1776016857640-aghl37fj7</odeBlockId>
           <odeIdeviceId>idevice-1776016857638-7oluw4aij</odeIdeviceId>
           <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
@@ -1033,19 +1129,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776095251275-c7h7vo0xx</odePageId>
-  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <odePageId>page-mnxg1erf-yl2qwfwqz</odePageId>
+  <odeParentPageId>page-mnxg1era-3n65htyc1</odeParentPageId>
   <pageName>Publicación y Descarga de Exe</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Publicación y Descarga de Exe</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Publicación y Descarga de Exe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776095251275-c7h7vo0xx</odePageId>
+      <odePageId>page-mnxg1erf-yl2qwfwqz</odePageId>
       <odeBlockId>block-1776095347559-7tosslpbf</odeBlockId>
       <blockName>Publicación en Github</blockName>
       <iconName></iconName>
@@ -1074,7 +1194,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776095251275-c7h7vo0xx</odePageId>
+          <odePageId>page-mnxg1erf-yl2qwfwqz</odePageId>
           <odeBlockId>block-1776095347559-7tosslpbf</odeBlockId>
           <odeIdeviceId>idevice-1776095347558-uzfum0axl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1086,12 +1206,24 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776095347558-uzfum0axl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4>Bárbara Vegas Flor</h4>\n<p><a href=\"https://barbaravegas.github.io/SDAdimecomosuena/\" title=\"\">https://barbaravegas.github.io/SDAdimecomosuena/</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1776095251275-c7h7vo0xx</odePageId>
+      <odePageId>page-mnxg1erf-yl2qwfwqz</odePageId>
       <odeBlockId>block-1776095261594-yhe8r8o8m</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -1120,7 +1252,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776095251275-c7h7vo0xx</odePageId>
+          <odePageId>page-mnxg1erf-yl2qwfwqz</odePageId>
           <odeBlockId>block-1776095261594-yhe8r8o8m</odeBlockId>
           <odeIdeviceId>idevice-1776095261592-6gsb1hezk</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
@@ -1148,6 +1280,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1155,19 +1299,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776098277223-md1obwpvi</odePageId>
-  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <odePageId>page-mnxg1erf-h1ueqwj3j</odePageId>
+  <odeParentPageId>page-mnxg1era-3n65htyc1</odeParentPageId>
   <pageName>Diccionario de terminos</pageName>
-  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Diccionario de terminos</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diccionario de terminos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776098277223-md1obwpvi</odePageId>
+      <odePageId>page-mnxg1erf-h1ueqwj3j</odePageId>
       <odeBlockId>block-1776098281703-iz9tnbi2t</odeBlockId>
       <blockName>Términos</blockName>
       <iconName></iconName>
@@ -1196,7 +1364,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776098277223-md1obwpvi</odePageId>
+          <odePageId>page-mnxg1erf-h1ueqwj3j</odePageId>
           <odeBlockId>block-1776098281703-iz9tnbi2t</odeBlockId>
           <odeIdeviceId>idevice-1776098281703-dmfwzh8ao</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1206,6 +1374,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776098281703-dmfwzh8ao","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>-</strong> <strong>Sección de orquesta: </strong>grupo de instrumentos musicales de la misma familia<br />sonora, que se sientan juntos en el escenario.<br /><strong>- Familia de instrumentos:</strong> grupo de instrumentos musicales, que se caracterizan<br />por tener la forma o el timbre similar. Existen cuatro familias que se distinguen por<br />su material de fabricación (viento madera o viento metal) o por su forma de tocarlo<br />(cuerda frotada o percusión).<br /><strong>- Instrumentos de cuerda frotada: </strong>están hechos de madera, disponen de una caja<br />de resonancia y se necesita un arco para “frotar” las cuerdas. Se llaman: violín,<br />viola, violonchelo y contrabajo.<br /><strong>- Instrumentos de viento madera*: </strong>están fabricados de este material. Son: flauta<br />travesera, clarinete, oboe, corno inglés y fagot.<br />* Aunque en la actualidad la flauta travesera es de metal, pertenece a esta familia<br />porque, tradicionalmente, la flauta siempre fue de madera hasta el siglo XIX.<br /><strong>- Instrumentos de viento metal: </strong>están fabricados en este material. son: trompeta,<br />trompa, trombón y tuba.<br /><strong>- Percusión:</strong> pertenecen a esta familia porque la manera de tocarlos es<br />percutiéndolos (golpeándolos). Son: Caja, Bombo, Platillo, Triángulo, Xilófono,<br />Marimba y Timbales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
