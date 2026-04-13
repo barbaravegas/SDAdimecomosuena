@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260413182717FTHGJ4</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260413182717IGR4RR</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de aprendizaje - Dime cómo suenas y te diré quién eres </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Bárbara Vegas Flor</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776095199448</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnxd82pw-02k1mkr83</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Situación de aprendizaje</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Situación de aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxd82pw-02k1mkr83</odePageId>
+      <odeBlockId>block-1776097059209-5qtsmmsii</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxd82pw-02k1mkr83</odePageId>
+          <odeBlockId>block-1776097059209-5qtsmmsii</odeBlockId>
+          <odeIdeviceId>idevice-1776097059208-971na4gqz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-weight: 400;">En esta Situación de Aprendizaje, vamos a adentrarnos en la orquesta sinfónica a través de una obra musical que fue un símbolo de protesta no violenta. </span></p>
+<p><span style="font-weight: 400;">Conoceremos los instrumentos, quién es quién y cuál es su colocación en la orquesta y porqué; esto os permitirá poder disfrutar mejor de cualquier obra musical cuando vayáis a escuchar un concierto.</span></p>
+<p><br /></p>
+<p><span style="font-weight: 400;">Para lograr esto, prepararemos dos productos: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">una infografía, usando Canva, con elemento interactivo sobre la historia de la Sinfonía de los Adioses de Haydn y </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">un vídeo, usando el mini croma para explicar las secciones de instrumentos de la orquesta.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Nos dividiremos en dos grupos:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">para la infografía, cada grupo hará la suya, usando los materiales proporcionados.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">para el vídeo, cada grupo se ocupará de un aspecto: el grupo audio, montará el sonido y el grupo vídeo, hará la grabación de imagen en el mini croma.</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776097059208-971na4gqz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-weight: 400;\">En esta Situación de Aprendizaje, vamos a adentrarnos en la orquesta sinfónica a través de una obra musical que fue un símbolo de protesta no violenta. </span></p>\n<p><span style=\"font-weight: 400;\">Conoceremos los instrumentos, quién es quién y cuál es su colocación en la orquesta y porqué; esto os permitirá poder disfrutar mejor de cualquier obra musical cuando vayáis a escuchar un concierto.</span></p>\n<p><br /></p>\n<p><span style=\"font-weight: 400;\">Para lograr esto, prepararemos dos productos: </span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">una infografía, usando Canva, con elemento interactivo sobre la historia de la Sinfonía de los Adioses de Haydn y </span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">un vídeo, usando el mini croma para explicar las secciones de instrumentos de la orquesta.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Nos dividiremos en dos grupos:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">para la infografía, cada grupo hará la suya, usando los materiales proporcionados.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">para el vídeo, cada grupo se ocupará de un aspecto: el grupo audio, montará el sonido y el grupo vídeo, hará la grabación de imagen en el mini croma.</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <pageName>Tareas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+      <odeBlockId>block-1776017181563-9bd1nijft</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+          <odeBlockId>block-1776017181563-9bd1nijft</odeBlockId>
+          <odeIdeviceId>idevice-1776017181561-vglhv1o3r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><b>TAREA 1: Infografía de la Sinfonía de los Adioses.</b></p>
+<p><b><img src="{{context_path}}/content/resources/Protesta Haydn.webp" title="infografia" width="1456" height="813" alt="infografia" /></b></p>
+<p><b> </b></p>
+<p><b>LA HISTORIA: lee con atención la historia de esta sinfonía.</b></p>
+<p><b>Haydn nació en 1732 en una ciudad austríaca llamada Rohrau, muy cerca de la frontera con Hungría.</b></p>
+<p><b>Cuando Haydn tenía 31 años, el príncipe Esterhazy contrató a Haydn y lo mantuvo a su servicio durante casi treinta años. Gracias al príncipe, que financió una orquesta, Haydn pudo experimentar y desarrollar su lenguaje musical muchísimas obras entre las que se encuentran: el concierto para violonchelo nº1, la sinfonía Londres, o los cuartetos de cuerda de donde procede el himno de Alemania en la actualidad.</b></p>
+<p><b>Cuarteto emperador haydn 2o movimiento:</b></p>
+<p><a href="https://www.youtube.com/watch?v=mBmCcSz6HWw&amp;list=RDmBmCcSz6HWw&amp;start_radio=1"><b>https://www.youtube.com/watch?v=mBmCcSz6HWw&amp;list=RDmBmCcSz6HWw&amp;start_radio=1</b></a></p>
+<p><b>Himno Alemania, final de fútbol 2014:</b></p>
+<p><a href="https://www.youtube.com/watch?v=hava_V0ek5U"><b>https://www.youtube.com/watch?v=hava_V0ek5U</b></a></p>
+<p><b>La historia dice que la corte pasaba los meses de invierno en Viena, y el verano en Eszterháza, el palacio de verano que se encontraba alejado de todo, en un bosque. El verano de 1772 fue especialmente largo: el buen tiempo se alargó hasta otoño y el conde Esterhazy ordenó que se quedarían en el palacio de verano mucho más de lo habitual. Una noticia terrible para Haydn y para sus músicos, que se vieron obligados a permanecer lejos de sus familias y amigos por mucho tiempo. Para el conde era un tiempo de vacaciones, pero no para los músicos, que lo único que hacían allí era trabajar, aburrirse y no poder estar en contacto con sus familias; con lo que empezaron a cansarse de esta situación injusta y se quejaron a su jefe, que era Haydn. Éste habló con el conde que ignoró las peticiones de los músicos de volver a Viena, así que Haydn compuso la sinfonía “de los Adioses”, en la que, en el último movimiento, los músicos van abandonando el escenario tras apagar la vela de su atril (no existía la luz eléctrica) y dejar al final la sala a oscuras y en silencio. </b></p>
+<p><b>Parece que esta interpretación impresionó mucho al conde, que comprendió la soledad y tristeza en la que se encontraban sus empleados y ordenó regresar a Viena inmediatamente.</b></p>
+<p><b><img src="{{context_path}}/content/resources/Apaga vela Haydn.webp" title="apaga vela" width="1456" height="813" alt="apaga vela" /></b></p>
+<p><b><br /><br /></b></p>
+<p><span style="font-weight: 400;">A continuación tenéis las distintas actividades que llevaremos a cabo, para componer la infografía.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776017181561-vglhv1o3r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><b>TAREA 1: Infografía de la Sinfonía de los Adioses.</b></p>\n<p><b><img src=\"{{context_path}}/content/resources/Protesta Haydn.webp\" title=\"infografia\" width=\"1456\" height=\"813\" alt=\"infografia\" /></b></p>\n<p><b> </b></p>\n<p><b>LA HISTORIA: lee con atención la historia de esta sinfonía.</b></p>\n<p><b>Haydn nació en 1732 en una ciudad austríaca llamada Rohrau, muy cerca de la frontera con Hungría.</b></p>\n<p><b>Cuando Haydn tenía 31 años, el príncipe Esterhazy contrató a Haydn y lo mantuvo a su servicio durante casi treinta años. Gracias al príncipe, que financió una orquesta, Haydn pudo experimentar y desarrollar su lenguaje musical muchísimas obras entre las que se encuentran: el concierto para violonchelo nº1, la sinfonía Londres, o los cuartetos de cuerda de donde procede el himno de Alemania en la actualidad.</b></p>\n<p><b>Cuarteto emperador haydn 2o movimiento:</b></p>\n<p><a href=\"https://www.youtube.com/watch?v=mBmCcSz6HWw&amp;list=RDmBmCcSz6HWw&amp;start_radio=1\"><b>https://www.youtube.com/watch?v=mBmCcSz6HWw&amp;list=RDmBmCcSz6HWw&amp;start_radio=1</b></a></p>\n<p><b>Himno Alemania, final de fútbol 2014:</b></p>\n<p><a href=\"https://www.youtube.com/watch?v=hava_V0ek5U\"><b>https://www.youtube.com/watch?v=hava_V0ek5U</b></a></p>\n<p><b>La historia dice que la corte pasaba los meses de invierno en Viena, y el verano en Eszterháza, el palacio de verano que se encontraba alejado de todo, en un bosque. El verano de 1772 fue especialmente largo: el buen tiempo se alargó hasta otoño y el conde Esterhazy ordenó que se quedarían en el palacio de verano mucho más de lo habitual. Una noticia terrible para Haydn y para sus músicos, que se vieron obligados a permanecer lejos de sus familias y amigos por mucho tiempo. Para el conde era un tiempo de vacaciones, pero no para los músicos, que lo único que hacían allí era trabajar, aburrirse y no poder estar en contacto con sus familias; con lo que empezaron a cansarse de esta situación injusta y se quejaron a su jefe, que era Haydn. Éste habló con el conde que ignoró las peticiones de los músicos de volver a Viena, así que Haydn compuso la sinfonía “de los Adioses”, en la que, en el último movimiento, los músicos van abandonando el escenario tras apagar la vela de su atril (no existía la luz eléctrica) y dejar al final la sala a oscuras y en silencio. </b></p>\n<p><b>Parece que esta interpretación impresionó mucho al conde, que comprendió la soledad y tristeza en la que se encontraban sus empleados y ordenó regresar a Viena inmediatamente.</b></p>\n<p><b><img src=\"{{context_path}}/content/resources/Apaga vela Haydn.webp\" title=\"apaga vela\" width=\"1456\" height=\"813\" alt=\"apaga vela\" /></b></p>\n<p><b><br /><br /></b></p>\n<p><span style=\"font-weight: 400;\">A continuación tenéis las distintas actividades que llevaremos a cabo, para componer la infografía.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+      <odeBlockId>block-1776017697362-n7bpn4olb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+          <odeBlockId>block-1776017697362-n7bpn4olb</odeBlockId>
+          <odeIdeviceId>idevice-1776017697358-s6tgkal0r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><b>Actividad 1: PREPARANDO LA INFOGRAFÍA DE LA SINFONÍA DE LOS ADIOSES.</b></p>
+<p><b>INSTRUCCIONES PARA LA REALIZACIÓN DE LA INFOGRAFÍA</b></p>
+<p><span style="font-weight: 400;">A través de la lista de cotejo, que tenéis en los materiales, comprenderéis todo lo que debe incluir este trabajo.</span></p>
+<p><span style="font-weight: 400;">No os olvidéis de leer con atención las instrucciones para que todo os resulte más fácil.</span></p>
+<p><img src="{{context_path}}/content/resources/INDICACIONES PARA REALIZAR LA INFOGRAFÍA.png" title="infografia" width="1920" height="1080" alt="infografia" /><br /><br /></p>
+<p><b>Actividad 2: DAMOS FORMA A LA HISTORIA</b></p>
+<p><span style="font-weight: 400;">En grupo, poned en común vuestras respuestas y escribid entre todos la historia de la Sinfonía de los Adioses. Cuando terminéis, tendréis el texto que acompañará la infografía.</span></p>
+<p><br /></p>
+<p><b>Actividad 3: CREAMOS LA INFOGRAFÍA</b></p>
+<p><span style="font-weight: 400;">Cada grupo, con su cuenta de CANVA, crearán las imágenes de la infografía. Veréis que en los materiales tenéis varias fotografías de cada tema, para que elijáis las que más os gusten y así, cada infografía pueda ser diferente.</span></p>
+<p><span style="font-weight: 400;">Este es el enlace al vídeo que debéis insertar: </span></p>
+<p><b>Daniel Barenboim Joseph Haydn Symphony No. 45 </b></p>
+<p><a href="https://www.youtube.com/watch?v=sOF5K6zOaLc"><span style="font-weight: 400;">https://www.youtube.com/watch?v=sOF5K6zOaLc</span></a></p>
+<p><br /><br /><br /></p>
+<p><b>Actividad 4: Evaluamos nuestro trabajo</b></p>
+<p><b>A través de la lista de cotejo podremos saber si nuestro trabajo está acabado con todos los elementos que se piden.</b></p>
+<p><br /><br /><br /></p>
+<p><b>TAREA 2: Vídeo de los instrumentos de la orquesta sinfónica.</b></p>
+<p><br /></p>
+<p><b>La orquesta sinfónica se compone de diferentes instrumentos que dividimos en secciones o familias. En los siguientes vídeos descubriremos qué instrumentos pertenecen a cada familia, cómo suenan y dónde se colocan en el escenario y por qué. </b></p>
+<p><b>Veamos los siguientes vídeos para luego poder contestar la ficha, rellenando los huecos que faltan.</b></p>
+<p><b><img src="{{context_path}}/content/resources/instrumentos orquesta.jpg" title="instrumentos" width="1089" height="980" alt="instrumentos" /></b></p>
+<p><br /><br /><br /><br /><b></b></p>
+<ul>
+<li aria-level="1">
+<h5><b>Jaime Altozano y la orquesta </b></h5>
+</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=RHAklmqlvRI&t=376s"><span style="font-weight: 400;">https://www.youtube.com/watch?v=RHAklmqlvRI&t=376s</span></a></p>
+<p><br /><b></b></p>
+<ul>
+<li aria-level="1">
+<h5><b>Los Instrumentos de la orquesta sinfonica - Parte uno</b></h5>
+</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=wll6hBYzOKU"><span style="font-weight: 400;">https://www.youtube.com/watch?v=wll6hBYzOKU</span></a></p>
+<p><br /><b></b></p>
+<ul>
+<li aria-level="1">
+<h5><b>Los Instrumentos de la orquesta sinfonica - Parte dos</b></h5>
+</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=KmTqbL07i_g&list=RDKmTqbL07i_g&start_radio=1"><span style="font-weight: 400;">https:/www.youtube.com/watch?v=KmTqbL07i_g&list=RDKmTqbL07i_g&start_radio=1</span></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776017697358-s6tgkal0r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><b>Actividad 1: PREPARANDO LA INFOGRAFÍA DE LA SINFONÍA DE LOS ADIOSES.</b></p>\n<p><b>INSTRUCCIONES PARA LA REALIZACIÓN DE LA INFOGRAFÍA</b></p>\n<p><span style=\"font-weight: 400;\">A través de la lista de cotejo, que tenéis en los materiales, comprenderéis todo lo que debe incluir este trabajo.</span></p>\n<p><span style=\"font-weight: 400;\">No os olvidéis de leer con atención las instrucciones para que todo os resulte más fácil.</span></p>\n<p><img src=\"{{context_path}}/content/resources/INDICACIONES PARA REALIZAR LA INFOGRAFÍA.png\" title=\"infografia\" width=\"1920\" height=\"1080\" alt=\"infografia\" /><br /><br /></p>\n<p><b>Actividad 2: DAMOS FORMA A LA HISTORIA</b></p>\n<p><span style=\"font-weight: 400;\">En grupo, poned en común vuestras respuestas y escribid entre todos la historia de la Sinfonía de los Adioses. Cuando terminéis, tendréis el texto que acompañará la infografía.</span></p>\n<p><br /></p>\n<p><b>Actividad 3: CREAMOS LA INFOGRAFÍA</b></p>\n<p><span style=\"font-weight: 400;\">Cada grupo, con su cuenta de CANVA, crearán las imágenes de la infografía. Veréis que en los materiales tenéis varias fotografías de cada tema, para que elijáis las que más os gusten y así, cada infografía pueda ser diferente.</span></p>\n<p><span style=\"font-weight: 400;\">Este es el enlace al vídeo que debéis insertar: </span></p>\n<p><b>Daniel Barenboim Joseph Haydn Symphony No. 45 </b></p>\n<p><a href=\"https://www.youtube.com/watch?v=sOF5K6zOaLc\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=sOF5K6zOaLc</span></a></p>\n<p><br /><br /><br /></p>\n<p><b>Actividad 4: Evaluamos nuestro trabajo</b></p>\n<p><b>A través de la lista de cotejo podremos saber si nuestro trabajo está acabado con todos los elementos que se piden.</b></p>\n<p><br /><br /><br /></p>\n<p><b>TAREA 2: Vídeo de los instrumentos de la orquesta sinfónica.</b></p>\n<p><br /></p>\n<p><b>La orquesta sinfónica se compone de diferentes instrumentos que dividimos en secciones o familias. En los siguientes vídeos descubriremos qué instrumentos pertenecen a cada familia, cómo suenan y dónde se colocan en el escenario y por qué. </b></p>\n<p><b>Veamos los siguientes vídeos para luego poder contestar la ficha, rellenando los huecos que faltan.</b></p>\n<p><b><img src=\"{{context_path}}/content/resources/instrumentos orquesta.jpg\" title=\"instrumentos\" width=\"1089\" height=\"980\" alt=\"instrumentos\" /></b></p>\n<p><br /><br /><br /><br /><b></b></p>\n<ul>\n<li aria-level=\"1\">\n<h5><b>Jaime Altozano y la orquesta </b></h5>\n</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=RHAklmqlvRI&t=376s\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=RHAklmqlvRI&t=376s</span></a></p>\n<p><br /><b></b></p>\n<ul>\n<li aria-level=\"1\">\n<h5><b>Los Instrumentos de la orquesta sinfonica - Parte uno</b></h5>\n</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=wll6hBYzOKU\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=wll6hBYzOKU</span></a></p>\n<p><br /><b></b></p>\n<ul>\n<li aria-level=\"1\">\n<h5><b>Los Instrumentos de la orquesta sinfonica - Parte dos</b></h5>\n</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=KmTqbL07i_g&list=RDKmTqbL07i_g&start_radio=1\"><span style=\"font-weight: 400;\">https:/www.youtube.com/watch?v=KmTqbL07i_g&list=RDKmTqbL07i_g&start_radio=1</span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+      <odeBlockId>block-1776017810583-5xud8hn0q</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxd82pw-yn8p34q97</odePageId>
+          <odeBlockId>block-1776017810583-5xud8hn0q</odeBlockId>
+          <odeIdeviceId>idevice-1776017810582-jiwb29xlg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><b>Actividad 1: PREPARANDO EL VÍDEO DE LOS INSTRUMENTOS DE LA ORQUESTA.</b></p>
+<p><b>INSTRUCCIONES PARA LA REALIZACIÓN DEL VÍDEO</b></p>
+<p><span style="font-weight: 400;">A través de la lista de cotejo, que tenéis en los materiales, comprenderéis todo lo que debe incluir este trabajo.</span></p>
+<p><span style="font-weight: 400;">No os olvidéis de leer con atención las instrucciones para que todo os resulte más fácil.</span></p>
+<p><img src="{{context_path}}/content/resources/Indicaciones vídeo.png" title="video" width="1920" height="1080" alt="video" /><br /></p>
+<p><b>Actividad 2: DAMOS FORMA AL VÍDEO</b></p>
+<p><span style="font-weight: 400;">Nos dividiremos en dos grupos para este trabajo: el equipo VÍDEO y el equipo AUDIO. </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">equipo VÍDEO: preparará las imágenes para el minicroma y será el responsable de la grabación de las imágenes del vídeo.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">equipo AUDIO: preparará el texto de nuestro vídeo, utilizando la ficha de la actividad 1 y será el responsable de la grabación del audio del vídeo.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Cada equipo preparará su lista de tareas usando la metodología EduScrum.</span></p>
+<p><span style="font-weight: 400;">En el siguiente vídeo aprenderemos cómo hacerlo:</span></p>
+<h5><b>Metodología Eduscrum</b></h5>
+<p><a href="https://www.youtube.com/watch?v=NrVcuv0ZXeQ"><span style="font-weight: 400;">https://www.youtube.com/watch?v=NrVcuv0ZXeQ</span></a></p>
+<p><br /><br /></p>
+<p><b>Actividad 3: CREAMOS EL VÍDEO</b></p>
+<p><span style="font-weight: 400;">Cada grupo, llevará a cabo las tareas de su tablero.</span></p>
+<p><br /><br /><br /></p>
+<p><b>Actividad 4: Evaluamos nuestro trabajo</b></p>
+<p><b>A través de la lista de cotejo podremos saber si nuestro trabajo está acabado con todos los elementos que se piden.</b></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776017810582-jiwb29xlg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><b>Actividad 1: PREPARANDO EL VÍDEO DE LOS INSTRUMENTOS DE LA ORQUESTA.</b></p>\n<p><b>INSTRUCCIONES PARA LA REALIZACIÓN DEL VÍDEO</b></p>\n<p><span style=\"font-weight: 400;\">A través de la lista de cotejo, que tenéis en los materiales, comprenderéis todo lo que debe incluir este trabajo.</span></p>\n<p><span style=\"font-weight: 400;\">No os olvidéis de leer con atención las instrucciones para que todo os resulte más fácil.</span></p>\n<p><img src=\"{{context_path}}/content/resources/Indicaciones vídeo.png\" title=\"video\" width=\"1920\" height=\"1080\" alt=\"video\" /><br /></p>\n<p><b>Actividad 2: DAMOS FORMA AL VÍDEO</b></p>\n<p><span style=\"font-weight: 400;\">Nos dividiremos en dos grupos para este trabajo: el equipo VÍDEO y el equipo AUDIO. </span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">equipo VÍDEO: preparará las imágenes para el minicroma y será el responsable de la grabación de las imágenes del vídeo.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">equipo AUDIO: preparará el texto de nuestro vídeo, utilizando la ficha de la actividad 1 y será el responsable de la grabación del audio del vídeo.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Cada equipo preparará su lista de tareas usando la metodología EduScrum.</span></p>\n<p><span style=\"font-weight: 400;\">En el siguiente vídeo aprenderemos cómo hacerlo:</span></p>\n<h5><b>Metodología Eduscrum</b></h5>\n<p><a href=\"https://www.youtube.com/watch?v=NrVcuv0ZXeQ\"><span style=\"font-weight: 400;\">https://www.youtube.com/watch?v=NrVcuv0ZXeQ</span></a></p>\n<p><br /><br /></p>\n<p><b>Actividad 3: CREAMOS EL VÍDEO</b></p>\n<p><span style=\"font-weight: 400;\">Cada grupo, llevará a cabo las tareas de su tablero.</span></p>\n<p><br /><br /><br /></p>\n<p><b>Actividad 4: Evaluamos nuestro trabajo</b></p>\n<p><b>A través de la lista de cotejo podremos saber si nuestro trabajo está acabado con todos los elementos que se piden.</b></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <pageName>Fichas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fichas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fichas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+      <odeBlockId>block-1776097490691-ma0yjjc39</odeBlockId>
+      <blockName>Ficha</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+          <odeBlockId>block-1776097490691-ma0yjjc39</odeBlockId>
+          <odeIdeviceId>idevice-1776097490690-y1b9zjcod</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ficha imprimible </p>
+<p><a href="{{context_path}}/content/resources/ficha.pdf" title="ficha.pdf">{{context_path}}/content/resources/ficha.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776097490690-y1b9zjcod","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ficha imprimible </p>\n<p><a href=\"{{context_path}}/content/resources/ficha.pdf\" title=\"ficha.pdf\">{{context_path}}/content/resources/ficha.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+      <odeBlockId>block-1776096042996-n8xzn4vpo</odeBlockId>
+      <blockName>Rellena los campo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+          <odeBlockId>block-1776096042996-n8xzn4vpo</odeBlockId>
+          <odeIdeviceId>idevice-1776096760503-n90732lhm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><b>Actividad 1: PREPARANDO EL VÍDEO DE LOS INSTRUMENTOS DE LA ORQUESTA.</b></p>
+<p>Contesta a estas preguntas, son la base para componer la historia que explicará la infografía. </p>
+<p>LA ORQUESTA SINFÓNICA. Encontrarás las respuestas en el vídeo 1.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776096760503-n90732lhm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><b>Actividad 1: PREPARANDO EL VÍDEO DE LOS INSTRUMENTOS DE LA ORQUESTA.</b></p>\n<p>Contesta a estas preguntas, son la base para componer la historia que explicará la infografía. </p>\n<p>LA ORQUESTA SINFÓNICA. Encontrarás las respuestas en el vídeo 1.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+          <odeBlockId>block-1776096042996-n8xzn4vpo</odeBlockId>
+          <odeIdeviceId>idevice-1776096042995-8woodizse</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1776096042995-8woodizse" data-evaluationb="false" data-evaluationid="5d25149c-cd45-46c8-ae3f-a202d0486084"></div><div class="completa-feedback-game"></div><div class="completa-instructions"><p>Lee el texto y completa las palabras que faltan.</p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%F7%FE%B2%E6%F7%EA%E6%FD%B2%EB%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%A3%BC%D7%FC%B7%A0%A2%FE%F3%B7%A0%A2%FD%E0%E3%E7%F7%E1%E6%F3%B7%A0%A2%E1%FB%FC%F4%B7%D4%A1%FC%FB%F1%F3%B7%A0%A2%F3%E2%F3%E0%F7%F1%F7%FC%B7%A0%A2%D2%D2%A6%D2%D2%B7%A0%A2%F4%F3%FF%FB%FE%FB%F3%E1%B7%A0%A2%F6%F7%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%BC%B7%A0%A2%B7%A0%AA%C2%FD%FC%F7%E0%B7%A0%A2%F7%FE%B7%A0%A2%FC%B7%D4%D3%FF%F7%E0%FD%B7%A0%AB%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A0%BC%DE%F3%E1%B7%A0%A2%F4%F3%FF%FB%FE%FB%F3%E1%B7%A0%A2%E1%F7%B7%A0%A2%FE%FE%F3%FF%F3%FC%B7%A1%D3%B7%A0%A2%F1%E7%F7%E0%F6%F3%B7%A0%A2%D2%D2%F4%E0%FD%E6%F3%F6%F3%D2%D2%B7%A0%D1%B7%A0%A2%E4%FB%F7%FC%E6%FD%B7%A0%A2%D2%D2%FF%F3%F6%F7%E0%F3%D2%D2%B7%A0%D1%B7%A0%A2%E4%FB%F7%FC%E6%FD%B7%A0%A2%D2%D2%FF%F7%E6%F3%FE%D2%D2%B7%A0%A2%EB%B7%A0%A2%D2%D2%E2%F7%E0%F1%E7%E1%FB%B7%D4%A1%FC%D2%D2%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A1%BC%DE%F3%B7%A0%A2%F4%F3%FF%FB%FE%FB%F3%B7%A0%A2%F6%F7%B7%A0%A2%F1%E7%F7%E0%F6%F3%B7%A0%A2%F4%E0%FD%E6%F3%F6%F3%B7%A0%A2%F7%E1%E6%B7%D7%A3%B7%A0%A2%F4%FD%E0%FF%F3%F6%F3%B7%A0%A2%E2%FD%E0%B7%A1%D3%B7%A0%A2%D2%D2%E4%FB%FD%FE%B7%D7%D6%FC%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%E4%FB%FD%FE%F3%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%E4%FB%FD%FE%FD%FC%F1%FA%F7%FE%FD%D2%D2%B7%A0%A2%EB%B7%D3%A2%B7%A0%A2%D2%D2%F1%FD%FC%E6%E0%F3%F0%F3%F8%FD%D2%D2%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A6%BC%DE%F3%B7%A0%A2%F4%F3%FF%FB%FE%FB%F3%B7%A0%A2%F6%F7%B7%A0%A2%E4%FB%F7%FC%E6%FD%B7%A0%A2%FF%F3%F6%F7%E0%F3%B7%A0%A2%F7%E1%E6%B7%D7%A3%B7%A0%A2%F4%FD%E0%FF%F3%F6%F3%B7%A0%A2%E2%FD%E0%B7%A1%D3%B7%A0%A2%D2%D2%F4%FE%F3%E7%E6%F3%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%F1%FE%F3%E0%FB%FC%F7%E6%F7%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%FD%F0%FD%F7%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%F1%FD%E0%FC%FD%B7%A0%A2%FB%FC%F5%FE%B7%D7%AB%E1%D2%D2%B7%A0%A2%EB%B7%A0%A2%D2%D2%F4%F3%F5%FD%E6%D2%D2%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A7%BC%DE%F3%B7%A0%A2%F4%F3%FF%FB%FE%FB%F3%B7%A0%A2%F6%F7%B7%A0%A2%E4%FB%F7%FC%E6%FD%B7%A0%A2%FF%F7%E6%F3%FE%B7%A0%A2%F7%E1%E6%B7%D7%A3%B7%A0%A2%F4%FD%E0%FF%F3%F6%F3%B7%A0%A2%E2%FD%E0%B7%A1%D3%B7%A0%A2%D2%D2%E6%E0%FD%FF%E2%F7%E6%F3%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%E6%E0%FD%FF%E2%F3%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%E6%E0%FD%FF%F0%B7%D4%A1%FC%D2%D2%B7%A0%A2%EB%B7%A0%A2%D2%D2%E6%E7%F0%F3%D2%D2%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A4%BC%DE%F3%B7%A0%A2%F4%F3%FF%FB%FE%FB%F3%B7%A0%A2%F6%F7%B7%A0%A2%E2%F7%E0%F1%E7%E1%FB%B7%D4%A1%FC%B7%A0%A2%F7%E1%E6%B7%D7%A3%B7%A0%A2%F4%FD%E0%FF%F3%F6%F3%B7%A0%A2%E2%FD%E0%B7%A1%D3%B7%A0%A2%D2%D2%F1%F3%F8%F3%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%F0%FD%FF%F0%FD%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%E2%FE%F3%E6%FB%FE%FE%FD%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%E6%E0%FB%B7%D7%A3%FC%F5%E7%FE%FD%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%EA%FB%FE%B7%D4%A1%F4%FD%FC%FD%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%FF%F3%E0%FB%FF%F0%F3%D2%D2%B7%A0%A2%EB%B7%A0%A2%D2%D2%E6%FB%FF%F0%F3%FE%F7%E1%D2%D2%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A5%BC%DE%FD%E1%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B7%A0%A2%F6%F7%B7%A0%A2%E4%FB%F7%FC%E6%FD%B7%A0%A2%E1%E7%F7%FC%F3%FC%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%D2%D2%F4%E7%F7%E0%E6%F7%D2%D2%B7%A0%A2%E3%E7%F7%B7%A0%A2%FE%FD%E1%B7%A0%A2%F6%F7%B7%A0%A2%F1%E7%F7%E0%F6%F3%B7%A0%A2%F4%E0%FD%E6%F3%F6%F3%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%AA%BC%C2%FD%E0%B7%A0%A2%F7%E1%FD%B7%A0%D1%B7%A0%A2%F7%FC%B7%A0%A2%FE%F3%B7%A0%A2%F1%FD%FE%FD%F1%F3%F1%FB%B7%D4%A1%FC%B7%A0%A2%F6%F7%B7%A0%A2%FE%F3%B7%A0%A2%FD%E0%E3%E7%F7%E1%E6%F3%B7%A0%D1%B7%A0%A2%FE%FD%E1%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B7%A0%A2%E3%E7%F7%B7%A0%A2%E1%F7%B7%A0%A2%E1%FB%F7%FC%E6%F3%FC%B7%A0%A2%F6%F7%FE%F3%FC%E6%F7%B7%A0%A2%E1%FD%FC%B7%A0%A2%FE%FD%E1%B7%A0%A2%F6%F7%B7%A0%A2%FE%F3%B7%A0%A2%F4%F3%FF%FB%FE%FB%F3%B7%A0%A2%F6%F7%B7%A0%A2%D2%D2%F1%E7%F7%E0%F6%F3%D2%D2%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A7%F6%A0%A7%A3%A6%AB%F1%BF%F1%F6%A6%A7%BF%A6%A4%F1%AA%BF%F3%F7%A1%F4%BF%F3%A0%A2%A0%F6%A2%A6%AA%A4%A2%AA%A6%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A4%A2%AB%A4%A2%A6%A0%AB%AB%A7%BF%AA%E5%FD%FD%F6%FB%E8%E1%F7%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B03%C2%E0%E7%F7%F0%F3%B2%FD%E6%E0%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%DA%F3%E1%B2%E6%F7%FC%FB%F6%FD%B2%B7%E1%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%F6%B2%F7%E0%E0%FD%E0%F7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%FE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%EF%EF</div><div class="completa-text-game js-hidden"><p>1.En la orquesta sinfónica aparecen @@4@@ familias de instrumentos. (Poner el número)</p>
+<p>2.Las familias se llaman: cuerda @@frotada@@, viento @@madera@@, viento @@metal@@ y @@percusión@@</p>
+<p>3.La familia de cuerda frotada está formada por: @@violín@@, @@viola@@, @@violonchelo@@ y  @@contrabajo@@</p>
+<p>4.La familia de viento madera está formada por: @@flauta@@, @@clarinete@@, @@oboe@@, @@corno inglés@@ y @@fagot@@</p>
+<p>5.La familia de viento metal está formada por: @@trompeta@@, @@trompa@@, @@trombón@@ y @@tuba@@</p>
+<p>6.La familia de percusión está formada por: @@caja@@, @@bombo@@, @@platillo@@, @@triángulo@@, @@xilófono@@, @@marimba@@ y @@timbales@@</p>
+<p>7.Los instrumentos de viento suenan más @@fuerte@@ que los de cuerda frotada.</p>
+<p>8.Por eso, en la colocación de la orquesta, los instrumentos que se sientan delante son los de la familia de @@cuerda@@</p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p></div><div class="cmpt-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+          <odeBlockId>block-1776096042996-n8xzn4vpo</odeBlockId>
+          <odeIdeviceId>idevice-1776096834514-33zmifo8g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>LOS INSTRUMENTOS POR FAMILIAS. Encontrarás las respuestas en los vídeos 2 y 3.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776096834514-33zmifo8g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>LOS INSTRUMENTOS POR FAMILIAS. Encontrarás las respuestas en los vídeos 2 y 3.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mnxd82py-v50xgs9wj</odePageId>
+          <odeBlockId>block-1776096042996-n8xzn4vpo</odeBlockId>
+          <odeIdeviceId>idevice-1776096862404-5px9hzx69</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1776096862404-5px9hzx69" data-evaluationb="false" data-evaluationid="5d25149c-cd45-46c8-ae3f-a202d0486084"></div><div class="completa-feedback-game"></div><div class="completa-instructions"><p>Lee el texto y completa las palabras que faltan.</p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%F7%FE%B2%E6%F7%EA%E6%FD%B2%EB%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%AB%BC%DE%FD%E1%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B7%A0%A2%E1%E7%F7%FC%F3%FC%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%D2%D2%F3%F5%E7%F6%FD%D2%D2%B7%A0%A2%F1%E7%F3%FC%E6%FD%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%E2%F7%E3%E7%F7%B7%D4%A3%FD%E1%B7%A0%A2%E1%FD%FC%B7%A0%A2%EB%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%D2%D2%F5%E0%F3%E4%F7%D2%D2%B7%A0%A2%F1%E7%F3%FC%E6%FD%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%F5%E0%F3%FC%F6%F7%E1%B7%A0%A2%E1%FD%FC%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A3%A2%BC%D7%FE%B7%A0%A2%FD%E0%F6%F7%FC%B7%A0%A2%F6%F7%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%F3%F5%E7%F6%FD%B7%A0%A2%F3%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%F5%E0%F3%E4%F7%B7%A0%A2%F6%F7%B7%A0%A2%FE%FD%E1%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B7%A0%A2%F6%F7%B7%A0%A2%F1%E7%F7%E0%F6%F3%B7%A0%A2%F4%E0%FD%E6%F3%F6%F3%B7%A0%A2%E1%FD%FC%B7%A1%D3%B7%A0%A2%D2%D2%E4%FB%FD%FE%B7%D7%D6%FC%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%E4%FB%FD%FE%F3%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%E4%FB%FE%FD%FC%F1%FA%F7%FE%FD%D2%D2%B7%A0%A2%EB%B7%A0%A2%D2%D2%F1%FD%FC%E6%E0%F3%F0%F3%F8%FD%D2%D2%BC%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A3%A3%BC%DE%FD%E1%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%F3%F5%E7%F6%FD%E1%B7%A0%A2%F6%F7%B7%A0%A2%FE%F3%B7%A0%A2%E1%F7%F1%F1%FB%B7%D4%A1%FC%B7%A0%A2%F6%F7%B7%A0%A2%E4%FB%F7%FC%E6%FD%B7%A0%A2%FF%F3%F6%F7%E0%F3%B7%A0%A2%E1%FD%FC%B7%A1%D3%B7%A0%A2%D2%D2%F4%FE%F3%E7%E6%F3%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%F1%FE%F3%E0%FB%FC%F7%E6%F7%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%FD%F0%FD%F7%D2%D2%B7%A0%A2%EB%B7%A0%A2%D2%D2%F1%FD%E0%FC%FD%B7%A0%A2%FB%FC%F5%FE%B7%D7%AB%E1%D2%D2%BC%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A3%A0%BC%D7%FE%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%F5%E0%F3%E4%F7%B7%A0%A2%F6%F7%B7%A0%A2%FE%F3%B7%A0%A2%E1%F7%F1%F1%FB%B7%D4%A1%FC%B7%A0%A2%F6%F7%B7%A0%A2%E4%FB%F7%FC%E6%FD%B7%A0%A2%FF%F3%F6%F7%E0%F3%B7%A0%A2%F7%E1%B7%A1%D3%B7%A0%A2%D2%D2%F4%F3%F5%FD%E6%D2%D2%BC%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A3%A1%BC%DE%FD%E1%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%F3%F5%E7%F6%FD%E1%B7%A0%A2%F6%F7%B7%A0%A2%FE%F3%B7%A0%A2%E1%F7%F1%F1%FB%B7%D4%A1%FC%B7%A0%A2%F6%F7%B7%A0%A2%E4%FB%F7%FC%E6%FD%B7%A0%A2%FF%F7%E6%F3%FE%B7%A0%A2%E1%FD%FC%B7%A1%D3%B7%A0%A2%D2%D2%E6%E0%FD%FF%E2%F7%E6%F3%D2%D2%B7%A0%A2%EB%B7%A0%A2%D2%D2%E6%E0%FD%FF%E2%F3%D2%D2%BC%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A3%A6%BC%DE%FD%E1%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%F5%E0%F3%E4%F7%E1%B7%A0%A2%F6%F7%B7%A0%A2%FE%F3%B7%A0%A2%E1%F7%F1%F1%FB%B7%D4%A1%FC%B7%A0%A2%F6%F7%B7%A0%A2%E4%FB%F7%FC%E6%FD%B7%A0%A2%FF%F7%E6%F3%FE%B7%A0%A2%E1%FD%FC%B7%A1%D3%B7%A0%A2%D2%D2%E6%E0%FD%FF%F0%B7%D4%A1%FC%D2%D2%B7%A0%A2%EB%B7%A0%A2%D2%D2%E6%E7%F0%F3%D2%D2%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A3%A7%BC%DE%FD%E1%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%F3%F5%E7%F6%FD%E1%B7%A0%A2%F6%F7%B7%A0%A2%FE%F3%B7%A0%A2%E1%F7%F1%F1%FB%B7%D4%A1%FC%B7%A0%A2%F6%F7%B7%A0%A2%E2%F7%E0%F1%E7%E1%FB%B7%D4%A1%FC%B7%A0%A2%E1%FD%FC%B7%A1%D3%B7%A0%A2%D2%D2%E2%FE%F3%E6%FB%FE%FE%FD%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%E6%E0%FB%B7%D7%A3%FC%F5%E7%FE%F3%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%EA%FB%FE%B7%D4%A1%F4%FD%FC%FD%D2%D2%B7%A0%A2%EB%B7%A0%A2%D2%D2%FF%F3%E0%FB%FF%F0%F3%D2%D2%BC%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A3%A4%BC%DE%FD%E1%B7%A0%A2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%F5%E0%F3%E4%F7%E1%B7%A0%A2%F6%F7%B7%A0%A2%FE%F3%B7%A0%A2%E1%F7%F1%F1%FB%B7%D4%A1%FC%B7%A0%A2%F6%F7%B7%A0%A2%E2%F7%E0%F1%E7%E1%FB%B7%D4%A1%FC%B7%A0%A2%E1%FD%FC%B7%A1%D3%B7%A0%A2%D2%D2%F1%F3%F8%F3%D2%D2%B7%A0%D1%B7%A0%A2%D2%D2%F0%FD%FF%F0%FD%D2%D2%B7%A0%A2%EB%B7%A0%A2%D2%D2%E6%FB%FF%F0%F3%FE%F7%E1%D2%D2%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A7%F6%A0%A7%A3%A6%AB%F1%BF%F1%F6%A6%A7%BF%A6%A4%F1%AA%BF%F3%F7%A1%F4%BF%F3%A0%A2%A0%F6%A2%A6%AA%A4%A2%AA%A6%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A4%A2%AB%A4%AA%A4%A0%A6%A2%A6%BF%A7%E2%EA%AB%FA%E8%EA%A4%AB%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B03%C2%E0%E7%F7%F0%F3%B2%FD%E6%E0%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%DA%F3%E1%B2%E6%F7%FC%FB%F6%FD%B2%B7%E1%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%F6%B2%F7%E0%E0%FD%E0%F7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%FE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%EF%EF</div><div class="completa-text-game js-hidden"><p>9.Los instrumentos suenan más @@agudo@@ cuanto más pequeños son y más @@grave@@ cuanto más grandes son.</p>
+<p>10.El orden de más agudo a más grave de los instrumentos de cuerda frotada son: @@violín@@, @@viola@@, @@vilonchelo@@ y @@contrabajo@@.<br /></p>
+<p>11.Los instrumentos más agudos de la sección de viento madera son: @@flauta@@, @@clarinete@@, @@oboe@@ y @@corno inglés@@.<br /></p>
+<p>12.El instrumentos más grave de la sección de viento madera es: @@fagot@@.<br /></p>
+<p>13.Los instrumentos más agudos de la sección de viento metal son: @@trompeta@@ y @@trompa@@.<br /></p>
+<p>14.Los instrumentos más graves de la sección de viento metal son: @@trombón@@ y @@tuba@@.</p>
+<p>15.Los instrumentos más agudos de la sección de percusión son: @@platillo@@, @@triángula@@, @@xilófono@@ y @@marimba@@.<br /></p>
+<p>16.Los instrumentos más graves de la sección de percusión son: @@caja@@, @@bombo@@ y @@timbales@@.</p>
+<p><br /></p></div><div class="cmpt-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <pageName>Materiales y listas de cotejo</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Materiales y listas de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Materiales y listas de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Materiales y listas de cotejo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+      <odeBlockId>block-1776019665478-xyfi7wrx4</odeBlockId>
+      <blockName>Imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+          <odeBlockId>block-1776019665478-xyfi7wrx4</odeBlockId>
+          <odeIdeviceId>idevice-1776019665475-z7df5ss2s</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/Castillo Esterhazy 2.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Castillo Esterhazy 2.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/Escenario vacio 2.webp" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Escenario vacio 2.webp" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/Castillo Esterhazy 3.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Castillo Esterhazy 3.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/Escenario vacio 1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Escenario vacio 1.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/Haydn 1.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Haydn 1.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_5" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/Haydn 2.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Haydn 2.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_6" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/Castillo Esterhazy 1.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Castillo Esterhazy 1.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_7" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/Esterhazy 1.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Esterhazy 1.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_8" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/Estehazy 2.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Estehazy 2.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_9" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/Escenario vacío 3.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Escenario vacío 3.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_10" class="imageContainer"> <a idevice-id="idevice-1776019665475-z7df5ss2s" title="" href="{{context_path}}/content/resources/disposicion-orq-02.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/disposicion-orq-02.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776019665475-z7df5ss2s","img_0":{"img":"blob:app://localhost/a4c2923e-e0e6-4c07-a56f-f9cde2b5cd7c","thumbnail":"blob:app://localhost/a4c2923e-e0e6-4c07-a56f-f9cde2b5cd7c","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"blob:app://localhost/72d5c4f5-479a-43ab-a524-0e7d1ac36874","thumbnail":"blob:app://localhost/72d5c4f5-479a-43ab-a524-0e7d1ac36874","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"blob:app://localhost/f8544b07-1eb6-4683-8523-7a9a65ce8bc1","thumbnail":"blob:app://localhost/f8544b07-1eb6-4683-8523-7a9a65ce8bc1","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"blob:app://localhost/0bd85f88-61a2-4cb1-b5f3-09de404bf2da","thumbnail":"blob:app://localhost/0bd85f88-61a2-4cb1-b5f3-09de404bf2da","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"blob:app://localhost/81466072-112e-4d87-b5e1-af1d8a8bc7a9","thumbnail":"blob:app://localhost/81466072-112e-4d87-b5e1-af1d8a8bc7a9","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_5":{"img":"blob:app://localhost/f117fb38-7676-4df9-b4ed-b221753c71c8","thumbnail":"blob:app://localhost/f117fb38-7676-4df9-b4ed-b221753c71c8","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_6":{"img":"blob:app://localhost/72cd1a11-7a34-4db0-9579-5bb1f2ee2ec8","thumbnail":"blob:app://localhost/72cd1a11-7a34-4db0-9579-5bb1f2ee2ec8","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_7":{"img":"blob:app://localhost/90fd5cb3-b977-48d9-9a71-7c82f08b5602","thumbnail":"blob:app://localhost/90fd5cb3-b977-48d9-9a71-7c82f08b5602","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_8":{"img":"blob:app://localhost/c9de3f93-aa5d-4508-bb80-854d3b0923cb","thumbnail":"blob:app://localhost/c9de3f93-aa5d-4508-bb80-854d3b0923cb","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_9":{"img":"blob:app://localhost/f901ec2b-c9f0-453b-b198-9e42a106ff48","thumbnail":"blob:app://localhost/f901ec2b-c9f0-453b-b198-9e42a106ff48","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_10":{"img":"blob:app://localhost/0275424a-2fe7-4ab4-b15b-b701db7d583d","thumbnail":"blob:app://localhost/0275424a-2fe7-4ab4-b15b-b701db7d583d","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+      <odeBlockId>block-1776020320031-zlxm83xla</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxd82py-hhsuqfrkw</odePageId>
+          <odeBlockId>block-1776020320031-zlxm83xla</odeBlockId>
+          <odeIdeviceId>idevice-1776020320030-rursfgzuj</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Completa la lista de cotejo marcando las casillas si se han realizado las actividades correspondientes</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A4%A2%A0%A2%A1%A0%A2%A2%A1%A2%BF%E0%E7%E0%E1%F4%F5%E8%E7%F8%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%B2%F6%F7%FE%B2%E4%FB%F6%F7%FD%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%E2%E6%A9%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%D3%E0%FB%F3%FE%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%F1%FD%FE%FD%E0%A8%B1%A2%A2%A2%A2%A2%A2%A9%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%A5%A2%A2%A9%F4%FD%FC%E6%BF%E1%E6%EB%FE%F7%A8%FC%FD%E0%FF%F3%FE%A9%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%FC%FD%E0%FF%F3%FE%A9%E6%F7%EA%E6%BF%F6%F7%F1%FD%E0%F3%E6%FB%FD%FC%A8%FC%FD%FC%F7%A9%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%F0%F3%E1%F7%FE%FB%FC%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A0%A6%A1%A3%F1%F6%AB%A2%BF%A5%F4%F4%F4%BF%F1%F4%A4%A2%BF%A3%A2%AB%F3%BF%A1%A1%F1%F6%A4%F1%F3%A4%F1%A2%A1%F6%CE%B0%AC%DB%FC%F1%FE%E7%EB%F7%B2%F7%FE%B2%E6%7F%E6%E7%FE%FD%A8%B2%DE%DD%C1%B2%DB%DC%C1%C6%C0%C7%DF%D7%DC%C6%DD%C1%B2%D6%D7%B2%DE%D3%B2%DD%C0%C3%C7%D7%C1%C6%D3%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%E2%E6%A9%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%D3%E0%FB%F3%FE%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%F1%FD%FE%FD%E0%A8%B1%A2%A2%A2%A2%A2%A2%A9%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%A5%A2%A2%A9%F4%FD%FC%E6%BF%E1%E6%EB%FE%F7%A8%FC%FD%E0%FF%F3%FE%A9%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%FC%FD%E0%FF%F3%FE%A9%E6%F7%EA%E6%BF%F6%F7%F1%FD%E0%F3%E6%FB%FD%FC%A8%FC%FD%FC%F7%A9%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%F0%F3%E1%F7%FE%FB%FC%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%F0%F7%A0%AA%A2%A4%F1%A2%BF%A5%F4%F4%F4%BF%AB%AB%F1%F1%BF%F0%A4%F1%F0%BF%A3%AA%AA%F3%F0%A5%A6%F7%A6%F4%AB%F6%CE%B0%AC%DB%FC%F1%FE%E7%EB%F7%B2%F7%FE%B2%F1%E7%E0%E1%FD%B2%F3%FE%B2%E3%E7%F7%B2%E4%F3%B2%F6%FB%E0%FB%F5%FB%F6%FD%A8%B2%A1%28%B2%C2%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%E2%E6%A9%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%D3%E0%FB%F3%FE%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%F1%FD%FE%FD%E0%A8%B1%A2%A2%A2%A2%A2%A2%A9%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%A5%A2%A2%A9%F4%FD%FC%E6%BF%E1%E6%EB%FE%F7%A8%FC%FD%E0%FF%F3%FE%A9%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%FC%FD%E0%FF%F3%FE%A9%E6%F7%EA%E6%BF%F6%F7%F1%FD%E0%F3%E6%FB%FD%FC%A8%FC%FD%FC%F7%A9%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%F0%F3%E1%F7%FE%FB%FC%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%F4%F1%AA%AB%A6%AB%A6%A7%BF%A5%F4%F4%F4%BF%F6%A4%F1%AA%BF%F3%A2%A5%A6%BF%A1%F4%A7%A4%A6%A1%AA%F4%AB%F1%A7%A7%CE%B0%AC%D7%FE%B2%E4%7F%F6%F7%FD%B2%FB%FC%F1%FE%E7%EB%F7%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E1%F7%F1%F1%FB%FD%FC%F7%E1%B2%F6%F7%B2%FE%F3%B2%FD%E0%E3%E7%F7%E1%E6%F3%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%E2%E6%A9%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%D3%E0%FB%F3%FE%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%F1%FD%FE%FD%E0%A8%B1%A2%A2%A2%A2%A2%A2%A9%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%A5%A2%A2%A9%F4%FD%FC%E6%BF%E1%E6%EB%FE%F7%A8%FC%FD%E0%FF%F3%FE%A9%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%FC%FD%E0%FF%F3%FE%A9%E6%F7%EA%E6%BF%F6%F7%F1%FD%E0%F3%E6%FB%FD%FC%A8%FC%FD%FC%F7%A9%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%F0%F3%E1%F7%FE%FB%FC%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A1%A3%AB%AB%F4%F0%A4%F7%BF%A5%F4%F4%F4%BF%F4%AA%A5%AA%BF%F4%AB%F4%A4%BF%A0%A2%A4%F7%F0%A6%F7%A2%A3%F3%F7%A1%CE%B0%AC%D7%FE%B2%E4%7F%F6%F7%FD%B2%FB%FC%F1%FE%E7%EB%F7%B2%E6%FD%F6%F3%E1%B2%FE%FD%E1%B2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%E1%B2%F6%F7%B2%FE%F3%B2%FD%E0%E3%E7%F7%E1%E6%F3%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%E2%E6%A9%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%D3%E0%FB%F3%FE%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%F1%FD%FE%FD%E0%A8%B1%A2%A2%A2%A2%A2%A2%A9%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%A5%A2%A2%A9%F4%FD%FC%E6%BF%E1%E6%EB%FE%F7%A8%FC%FD%E0%FF%F3%FE%A9%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%FC%FD%E0%FF%F3%FE%A9%E6%F7%EA%E6%BF%F6%F7%F1%FD%E0%F3%E6%FB%FD%FC%A8%FC%FD%FC%F7%A9%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%F0%F3%E1%F7%FE%FB%FC%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%F3%A5%A5%F3%F1%A3%F0%F4%BF%A5%F4%F4%F4%BF%A3%A4%F1%A3%BF%F4%AA%A5%A1%BF%A1%A2%F6%A4%A0%A5%A6%A1%F6%AB%F3%A1%CE%B0%AC%D7%FE%B2%E6%F7%EA%E6%FD%B2%F7%E1%B2%F1%FD%E0%E6%FD%BE%B2%F1%FE%F3%E0%FD%B2%EB%B2%E1%F7%B2%F7%E1%F1%E7%F1%FA%F3%B2%F0%FB%F7%FC%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%E2%E6%A9%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%D3%E0%FB%F3%FE%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%F1%FD%FE%FD%E0%A8%B1%A2%A2%A2%A2%A2%A2%A9%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%A5%A2%A2%A9%F4%FD%FC%E6%BF%E1%E6%EB%FE%F7%A8%FC%FD%E0%FF%F3%FE%A9%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%FC%FD%E0%FF%F3%FE%A9%E6%F7%EA%E6%BF%F6%F7%F1%FD%E0%F3%E6%FB%FD%FC%A8%FC%FD%FC%F7%A9%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%F0%F3%E1%F7%FE%FB%FC%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A0%F7%A0%A7%A0%AB%AB%AB%BF%A5%F4%F4%F4%BF%A1%F1%A2%A7%BF%F6%A2%F0%F3%BF%F4%A6%F1%F0%A2%A7%A7%F6%F6%A1%A5%A0%CE%B0%AC%DE%F3%E1%B2%FB%FFs%F5%F7%FC%F7%E1%B2%EB%B2%F7%FE%B2%E6%F7%EA%E6%FD%B2%F1%FD%FC%F1%E7%F7%E0%F6%F3%FC%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%E2%E6%A9%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%D3%E0%FB%F3%FE%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%F1%FD%FE%FD%E0%A8%B1%A2%A2%A2%A2%A2%A2%A9%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%A5%A2%A2%A9%F4%FD%FC%E6%BF%E1%E6%EB%FE%F7%A8%FC%FD%E0%FF%F3%FE%A9%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%FC%FD%E0%FF%F3%FE%A9%E6%F7%EA%E6%BF%F6%F7%F1%FD%E0%F3%E6%FB%FD%FC%A8%FC%FD%FC%F7%A9%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%F0%F3%E1%F7%FE%FB%FC%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A7%F6%F4%A1%F0%A3%A6%AB%BF%A5%F4%F4%F4%BF%A4%F4%F0%F4%BF%A3%F6%A5%A5%BF%A4%A0%A5%A0%A6%F4%A6%A1%A4%AB%F4%A4%CE%B0%AC%D7%E1%E6s%B2%F0%FB%F7%FC%B2%FD%E0%F5%F3%FC%FB%E8%F3%F6%F3%A8%B2%E6%7F%E6%E7%FE%FD%BE%B2%FB%FFs%F5%F7%FC%F7%E1%B2%EB%B2%F3%E7%F6%FB%FD%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%E2%E6%A9%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%D3%E0%FB%F3%FE%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%F1%FD%FE%FD%E0%A8%B1%A2%A2%A2%A2%A2%A2%A9%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%A5%A2%A2%A9%F4%FD%FC%E6%BF%E1%E6%EB%FE%F7%A8%FC%FD%E0%FF%F3%FE%A9%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%FC%FD%E0%FF%F3%FE%A9%E6%F7%EA%E6%BF%F6%F7%F1%FD%E0%F3%E6%FB%FD%FC%A8%FC%FD%FC%F7%A9%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%F0%F3%E1%F7%FE%FB%FC%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A0%AA%A2%A4%F3%A5%F6%A5%BF%A5%F4%F4%F4%BF%AA%F1%F3%AA%BF%F4%F6%F1%F4%BF%F7%F0%F3%A2%F1%F7%F6%F1%A1%F0%A5%A3%CE%B0%AC%D7%FE%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%B2%E6%FB%F7%FC%F7%B2%FE%F3%B2%F1%F3%FE%FB%F6%F3%F6%B2%E0%F7%E3%E7%F7%E0%FB%F6%F3%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%E2%E6%A9%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%D3%E0%FB%F3%FE%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%F1%FD%FE%FD%E0%A8%B1%A2%A2%A2%A2%A2%A2%A9%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%A5%A2%A2%A9%F4%FD%FC%E6%BF%E1%E6%EB%FE%F7%A8%FC%FD%E0%FF%F3%FE%A9%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%FC%FD%E0%FF%F3%FE%A9%E6%F7%EA%E6%BF%F6%F7%F1%FD%E0%F3%E6%FB%FD%FC%A8%FC%FD%FC%F7%A9%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%F0%F3%E1%F7%FE%FB%FC%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%F7%A0%F4%A3%AB%F6%A7%AA%BF%A5%F4%F4%F4%BF%F0%A6%F3%A6%BF%A2%F3%AA%A7%BF%AA%AB%A4%A2%A7%F1%AB%A6%F4%A2%AB%A1%CE%B0%AC%DB%FC%F1%FE%E7%EB%F7%B2%FC%FD%FF%F0%E0%F7%B2%EB%B2%F3%E2%F7%FE%FE%FB%F6%FD%E1%B2%F6%F7%B2%FE%FD%E1%B2%FB%FC%E6%F7%F5%E0%F3%FC%E6%F7%E1%B2%F6%F7%FE%B2%F5%E0%E7%E2%FD%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%E2%E6%A9%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%D3%E0%FB%F3%FE%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%F1%FD%FE%FD%E0%A8%B1%A2%A2%A2%A2%A2%A2%A9%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%F4%FD%FC%E6%BF%E5%F7%FB%F5%FA%E6%A8%A5%A2%A2%A9%F4%FD%FC%E6%BF%E1%E6%EB%FE%F7%A8%FC%FD%E0%FF%F3%FE%A9%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%FC%FD%E0%FF%F3%FE%A9%E6%F7%EA%E6%BF%F6%F7%F1%FD%E0%F3%E6%FB%FD%FC%A8%FC%FD%FC%F7%A9%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%F0%F3%E1%F7%FE%FB%FC%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%A9%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%AA%A7%F0%A4%F3%AB%F6%A2%BF%A5%F4%F4%F4%BF%F6%A3%A4%F1%BF%AB%A4%F0%AA%BF%F4%F3%A6%F0%AB%F7%AB%F1%A6%F1%F1%A7%CE%B0%AC%C1%F7%B2%FA%F3%B2%E7%E1%F3%F6%FD%B2%F7%FE%B2%FF%F3%E6%F7%E0%FB%F3%FE%B2%E2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%F6%FD%B2%E2%F3%E0%F3%B2%FE%F3%B2%F7%FE%F3%F0%FD%E0%F3%F1%FBa%FC%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%E6%E0%E7%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div><div class="listacotejo-extra-content"><table style="width: 51.5961%; height: 243.334px; border-color: #000000; border-style: solid;">
+<tbody>
+<tr style="height: 48.6667px;">
+<td colspan="2" style="width: 99.7981%; height: 48.6667px;">
+<p><b>NIVELES DE LOGRO</b></p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td style="width: 11.2816%; height: 48.6667px; background-color: #fd7d7d; border-color: #000000; border-style: solid;">
+<p><b>0 - 4</b></p>
+</td>
+<td style="width: 88.5165%; height: 48.6667px; background-color: #fd7d7d; border-color: #000000; border-style: solid;">
+<p><span style="font-weight: 400;">HAY QUE MEJORAR EL CONTENIDO Y LA PRESENTACIÓN</span></p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td style="width: 11.2816%; height: 48.6667px; background-color: #f1c40f; border-color: #000000; border-style: solid;">
+<p><b>5- 6</b></p>
+</td>
+<td style="width: 88.5165%; height: 48.6667px; background-color: #f1c40f; border-color: #000000; border-style: solid;">
+<p><span style="font-weight: 400;">BIEN, PERO FALTAN COSAS DE LA LISTA DE COTEJO</span></p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td style="width: 11.2816%; height: 48.6667px; background-color: #bfedd2; border-color: #000000; border-style: solid;">
+<p><b>7 - 8</b></p>
+</td>
+<td style="width: 88.5165%; height: 48.6667px; background-color: #bfedd2; border-color: #000000; border-style: solid;">
+<p><span style="font-weight: 400;">MUY BIEN, SÓLO FALTAN ALGUNOS DETALLES</span></p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td style="width: 11.2816%; height: 48.6667px; background-color: #c2e0f4; border-color: #000000; border-style: solid;">
+<p><b>9 - 10</b></p>
+</td>
+<td style="width: 88.5165%; height: 48.6667px; background-color: #c2e0f4; border-color: #000000; border-style: solid;">
+<p><span style="font-weight: 400;">¡EXCELENTE! LA INFOGRAFÍA ES CLARA, CREATIVA Y COMPLETA</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxd82pz-ax0wzdkqg</odePageId>
+  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <pageName>Juego</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Juego</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Juego</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxd82pz-ax0wzdkqg</odePageId>
+      <odeBlockId>block-1776016857640-aghl37fj7</odeBlockId>
+      <blockName>Puzle</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxd82pz-ax0wzdkqg</odePageId>
+          <odeBlockId>block-1776016857640-aghl37fj7</odeBlockId>
+          <odeIdeviceId>idevice-1776016857638-7oluw4aij</odeIdeviceId>
+          <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="puzzle-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1776016857638-7oluw4aij" data-evaluationb="false" data-evaluationid="f230c202-7afd-4f7a-9b4c-f2d04cc91980"></div><div class="puzzle-feedback-game"></div><div class="puzzle-instructions"><p>Resuelve el siguiente puzzle y recoloca la orquesta</p></div><div class="puzzle-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C0%F7%E1%E7%F7%FE%E4%F7%B2%F7%FE%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%E2%E7%E8%E8%FE%F7%B2%EB%B2%E0%F7%F1%FD%FE%FD%F1%F3%B2%FE%F3%B2%FD%E0%E3%E7%F7%E1%E6%F3%AE%BD%E2%AC%B0%BE%B0%E0%F3%FC%F6%FD%FF%C2%E7%E8%E8%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%E7%E8%E8%FE%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A1%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DD%E0%F6%F7%FC%F3%B2%FE%F3%B2%FD%E0%E3%E7%F7%E1%E6%F3%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%FA%E6%E6%E2%E1%A8%BD%BD%F3%E2%E2%BC%F7%EA%F7%FE%F7%F3%E0%FC%FB%FC%F5%BC%FC%F7%E6%BD%A0%A4%F4%F3%A6%A7%A7%A0%BF%A0%A4%F6%F4%BF%A6%AB%F6%F1%BF%F3%A0%F6%A3%BF%F0%A6%AA%AA%A7%A4%F4%F0%A5%AB%AB%A4%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%D4%F7%FE%FB%F1%FB%F6%F3%F6%F7%E1%BE%B2%F3%B2%E2%F3%E0%E6%FB%E0%B2%F6%F7%B2%F3%FA%FD%E0%F3%B2%F1%E7%F3%FC%F6%FD%B2%E4%F3%EB%F3%E1%B2%F3%B2%E4%F7%E0%B2%E7%FC%B2%F1%FD%FC%F1%FB%F7%E0%E6%FD%BE%B2%E1%F3%F0%E0s%E1%B2%E3%E7%F7%B2%FB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%B2%F7%E1%B2%F1%F3%F6%F3%B2%E7%FC%FD%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F4%A0%A1%A2%F1%A0%A2%A0%BF%A5%F3%F4%F6%BF%A6%F4%A5%F3%BF%AB%F0%A6%F1%BF%F4%A0%F6%A2%A6%F1%F1%AB%A3%AB%AA%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A4%A2%A3%A4%AA%A7%A5%A4%A1%AA%BF%A5%FD%FE%E7%E5%A6%F3%FB%F8%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%E7%E8%E8%FE%F7%E1%B0%A8%B03%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B3%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E2%F7%FC%F6%FB%F7%FC%E6%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%FB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%C2%E7%E8%E8%FE%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%F7%FF%E2%FE%F7%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%E7%E8%E8%FE%F7%B0%A8%B0%C2%E7%E8%FE%F7%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%DC%F7%EA%E6%B0%A8%B0%C1%FB%F5%E7%FB%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%E1%C0%F7%E2%F7%F3%E6%B0%A8%B0%C0%F7%E2%F7%E6%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%E1%C6%F7%E0%FF%FB%FC%F3%E6%F7%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%FE%F7%B0%EF%EF</div><a href="{{context_path}}/content/resources/croquis-orquesta.jpg" class="js-hidden puzzle-LinkImagesDef">0</a><div class="puzzle-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776095251275-c7h7vo0xx</odePageId>
+  <odeParentPageId>page-mnxd82pw-02k1mkr83</odeParentPageId>
+  <pageName>Publicación y Descarga de Exe</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Publicación y Descarga de Exe</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776095251275-c7h7vo0xx</odePageId>
+      <odeBlockId>block-1776095347559-7tosslpbf</odeBlockId>
+      <blockName>Publicación en Github</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776095251275-c7h7vo0xx</odePageId>
+          <odeBlockId>block-1776095347559-7tosslpbf</odeBlockId>
+          <odeIdeviceId>idevice-1776095347558-uzfum0axl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4>Bárbara Vegas Flor</h4>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776095347558-uzfum0axl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4>Bárbara Vegas Flor</h4>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776095251275-c7h7vo0xx</odePageId>
+      <odeBlockId>block-1776095261594-yhe8r8o8m</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776095251275-c7h7vo0xx</odePageId>
+          <odeBlockId>block-1776095261594-yhe8r8o8m</odeBlockId>
+          <odeIdeviceId>idevice-1776095261592-6gsb1hezk</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Situación de aprendizaje - Dime cómo suenas y te diré quién eres </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Bárbara Vegas Flor</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
